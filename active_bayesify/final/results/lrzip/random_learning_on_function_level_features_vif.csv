@@ -1,0 +1,2505 @@
+is_active,repetition,iteration,feature,vif
+False,0,15,"('cores', 'ram')",5.964737505249895
+False,0,15,"('cores', 'level')",14.445561139028484
+False,0,15,"('level', 'ram')",1.794023393686909
+False,0,15,"('level', 'wind_size_unl')",6.034220247603832
+False,0,15,"('level', 'threshold')",2.842054574638844
+False,0,20,"('level', 'ram')",7.53444449829209
+False,0,20,"('cores', 'level')",13.459193271216886
+False,0,20,"('ram',)",3.0285506638969264
+False,0,20,"('level',)",8.129086009485508
+False,0,25,"('ram',)",3.3626924951748576
+False,0,25,"('level',)",5.181821771633114
+False,0,25,"('level', 'ram')",6.929960685593663
+False,0,25,"('cores', 'level')",3.768857172296036
+False,0,25,"('cores', 'ram')",4.085419783573015
+False,0,25,"('encrypt', 'ram')",3.124402348331993
+False,0,25,"('compression', 'level')",2.5755091679387965
+False,0,30,"('cores', 'ram')",3.413564405061615
+False,0,30,"('cores', 'level')",3.119840411660232
+False,0,30,"('level', 'ram')",6.564586069363
+False,0,30,"('encrypt', 'ram')",4.080304326985984
+False,0,30,"('ram', 'wind_size_unl')",4.741251796558806
+False,0,30,"('ram', 'threshold')",4.393230316384912
+False,0,30,"('compression', 'ram')",3.044250071266566
+False,0,30,"('level', 'wind_size_unl')",4.7586336732903005
+False,0,30,"('level', 'threshold')",5.807813821290186
+False,0,30,"('compression', 'level')",2.283647369477254
+False,0,30,"('cores',)",3.341551875654513
+False,0,30,"('ram',)",2.997179761420277
+False,0,30,"('level',)",5.285622308338382
+False,0,30,"('wind_size_unl',)",2.660778562954525
+False,0,30,"('threshold',)",2.5001476213537352
+False,0,35,"('cores', 'ram')",3.0823662703342314
+False,0,35,"('cores', 'level')",2.7464658661299106
+False,0,35,"('level', 'ram')",5.393734134695777
+False,0,35,"('level', 'wind_size_unl')",4.415757475828414
+False,0,35,"('compression', 'level')",2.00275753143911
+False,0,35,"('ram',)",2.743693791554659
+False,0,35,"('ram', 'wind_size_unl')",4.443572760149183
+False,0,35,"('cores',)",3.451937844725509
+False,0,35,"('level',)",5.067307149762495
+False,0,35,"('wind_size_unl',)",2.2111995264214355
+False,0,40,"('cores', 'ram')",3.066131925006805
+False,0,40,"('cores', 'level')",2.602495896171164
+False,0,40,"('compression', 'ram')",2.6909862130859383
+False,0,40,"('level',)",4.844008635464998
+False,0,40,"('level', 'ram')",5.137022300991951
+False,0,40,"('ram', 'wind_size_unl')",3.945046977168421
+False,0,40,"('ram', 'threshold')",3.780000693128944
+False,0,40,"('level', 'wind_size_unl')",4.53411234058599
+False,0,40,"('level', 'threshold')",3.990277958765472
+False,0,40,"('compression', 'level')",2.040834143180213
+False,0,40,"('cores',)",3.7230566366320814
+False,0,40,"('ram',)",2.3538194496345404
+False,0,40,"('encrypt',)",1.8998853532852065
+False,0,45,"('level', 'ram')",5.243863411191424
+False,0,45,"('level',)",4.5055540292706056
+False,0,45,"('cores', 'ram')",2.810057583865939
+False,0,45,"('cores', 'level')",2.4133113596323645
+False,0,45,"('encrypt', 'ram')",2.772174749365301
+False,0,45,"('ram', 'wind_size_unl')",3.604098347716165
+False,0,45,"('compression', 'ram')",2.4350935573387296
+False,0,45,"('level', 'wind_size_unl')",4.903884593374478
+False,0,45,"('level', 'threshold')",4.343020116102732
+False,0,45,"('compression', 'level')",2.061913211315632
+False,0,45,"('cores',)",3.772600521489749
+False,0,45,"('ram',)",2.1462828703871635
+False,0,45,"('encrypt',)",1.837507405710237
+False,0,45,"('wind_size_unl',)",1.725276030776631
+False,0,50,"('level',)",4.2930778938655
+False,0,50,"('cores', 'ram')",2.8184847808439075
+False,0,50,"('cores', 'level')",2.2938474943349862
+False,0,50,"('compression', 'cores')",2.1982304692478243
+False,0,50,"('level', 'ram')",4.833266926706276
+False,0,50,"('encrypt', 'ram')",2.600187166149325
+False,0,50,"('ram', 'wind_size_unl')",3.8870167731587184
+False,0,50,"('compression', 'ram')",2.4459541221755634
+False,0,50,"('level', 'wind_size_unl')",4.374780148057649
+False,0,50,"('level', 'threshold')",4.237878971424911
+False,0,50,"('cores',)",3.769705194464832
+False,0,50,"('ram',)",2.155109371741643
+False,0,50,"('encrypt',)",1.7705442263387794
+False,0,50,"('wind_size_unl',)",1.6762691628551671
+False,0,55,"('cores', 'ram')",2.9087961624325858
+False,0,55,"('cores', 'level')",2.404866331097058
+False,0,55,"('level', 'ram')",5.020379333093501
+False,0,55,"('cores',)",3.983219641925861
+False,0,55,"('ram',)",2.064676054736728
+False,0,55,"('encrypt', 'ram')",2.921830086141529
+False,0,55,"('level', 'wind_size_unl')",4.703555813185858
+False,0,55,"('encrypt',)",1.9727795039430744
+False,0,60,"('level', 'ram')",4.591077976781914
+False,0,60,"('ram',)",2.1499447021875286
+False,0,60,"('level',)",4.438000197450873
+False,0,60,"('cores', 'ram')",2.7935696900019624
+False,0,60,"('cores', 'level')",2.4121298077559006
+False,0,60,"('cores', 'wind_size_unl')",2.710450785550205
+False,0,60,"('compression', 'cores')",2.137507141109941
+False,0,60,"('encrypt', 'ram')",3.040930589635498
+False,0,60,"('ram', 'wind_size_unl')",3.609342193418196
+False,0,60,"('ram', 'threshold')",3.4550213357199344
+False,0,60,"('compression', 'ram')",2.2535514349209107
+False,0,60,"('level', 'wind_size_unl')",4.426305874012875
+False,0,60,"('level', 'threshold')",4.542524295378596
+False,0,60,"('compression', 'level')",2.0413166488571792
+False,0,60,"('cores', 'threshold')",2.710565171237935
+False,0,60,"('cores',)",4.0146208239639485
+False,0,60,"('encrypt',)",1.9984327280121112
+False,0,65,"('level', 'ram')",4.198309100195533
+False,0,65,"('level',)",4.1504999737977855
+False,0,65,"('cores', 'ram')",2.8420775720535554
+False,0,65,"('cores', 'level')",2.389145613703745
+False,0,65,"('cores', 'wind_size_unl')",2.7621861781054253
+False,0,65,"('encrypt', 'ram')",3.016133153294372
+False,0,65,"('ram', 'wind_size_unl')",3.58945049367422
+False,0,65,"('ram', 'threshold')",3.4844393939933034
+False,0,65,"('level', 'wind_size_unl')",4.2405925254423895
+False,0,65,"('level', 'threshold')",4.252020816623319
+False,0,65,"('ram',)",2.021957209852055
+False,0,65,"('cores',)",3.672378811154196
+False,0,65,"('encrypt',)",2.019133673858828
+False,0,65,"('wind_size_unl',)",1.8000161257196452
+False,0,65,"('threshold',)",2.070577881085865
+False,0,70,"('cores', 'level')",2.5613004764719025
+False,0,70,"('level', 'ram')",4.057032976413201
+False,0,70,"('ram', 'wind_size_unl')",3.4216132623921283
+False,0,70,"('ram', 'threshold')",3.1152780384069274
+False,0,70,"('compression', 'level')",2.0569940120622467
+False,0,70,"('level',)",4.226503590754152
+False,0,70,"('cores', 'ram')",2.9495597324438774
+False,0,70,"('cores', 'wind_size_unl')",2.841914550865667
+False,0,70,"('compression', 'cores')",2.2114872437699145
+False,0,70,"('encrypt', 'ram')",3.0145339691653352
+False,0,70,"('compression', 'ram')",2.3079384363085538
+False,0,70,"('level', 'wind_size_unl')",4.086650948866237
+False,0,70,"('cores',)",3.685107803330863
+False,0,70,"('compression',)",1.377896072332144
+False,0,70,"('cores', 'encrypt')",2.717270375482077
+False,0,70,"('encrypt', 'level')",3.446836931873773
+False,0,70,"('level', 'threshold')",3.996688721651061
+False,0,70,"('compression', 'encrypt')",1.715197898649199
+False,0,70,"('compression', 'wind_size_unl')",1.871957404094981
+False,0,70,"('compression', 'threshold')",1.8404871066090631
+False,0,70,"('ram',)",2.129218983365114
+False,0,70,"('encrypt',)",1.952803187867688
+False,0,70,"('wind_size_unl',)",1.89104448511246
+False,0,70,"('threshold',)",1.9216042179056183
+False,0,75,"('cores', 'ram')",2.830179789809538
+False,0,75,"('cores', 'level')",2.501261437707511
+False,0,75,"('level', 'ram')",4.002011930848044
+False,0,75,"('ram', 'wind_size_unl')",3.3462998904185906
+False,0,75,"('ram', 'threshold')",2.9711591784993536
+False,0,75,"('compression', 'level')",2.058733767764492
+False,0,75,"('level',)",4.303430247030144
+False,0,75,"('encrypt', 'ram')",2.826205532905555
+False,0,75,"('level', 'wind_size_unl')",4.054986851234409
+False,0,75,"('level', 'threshold')",3.981057506902346
+False,0,75,"('ram',)",2.156709579493556
+False,0,75,"('cores', 'threshold')",2.8433567219214657
+False,0,75,"('encrypt', 'level')",3.178488371594676
+False,0,75,"('cores',)",3.726224362943308
+False,0,75,"('encrypt',)",1.8275258890780743
+False,0,75,"('wind_size_unl',)",1.835996150369226
+False,0,75,"('threshold',)",1.877355550885781
+False,0,80,"('cores', 'level')",2.5433556287715136
+False,0,80,"('level', 'ram')",4.097281395393025
+False,0,80,"('level',)",4.600477514533652
+False,0,80,"('cores', 'ram')",2.8133151747028915
+False,0,80,"('encrypt', 'ram')",2.611184801641713
+False,0,80,"('ram', 'wind_size_unl')",3.080613558317144
+False,0,80,"('level', 'wind_size_unl')",4.227416616277048
+False,0,80,"('level', 'threshold')",4.284098374261287
+False,0,80,"('cores',)",3.738404640897652
+False,0,80,"('ram',)",2.2666625883868043
+False,0,80,"('compression',)",1.387081719032272
+False,0,80,"('compression', 'cores')",2.0876656580694166
+False,0,80,"('ram', 'threshold')",2.8830205761132106
+False,0,80,"('compression', 'ram')",2.123430954152913
+False,0,80,"('encrypt', 'level')",3.039375920954147
+False,0,80,"('compression', 'level')",2.0059472102624465
+False,0,80,"('compression', 'threshold')",1.8538728024298223
+False,0,80,"('encrypt',)",1.7733225949895792
+False,0,80,"('wind_size_unl',)",1.861240265403321
+False,0,80,"('threshold',)",1.9036761839674048
+False,0,85,"('cores', 'level')",2.659858413948069
+False,0,85,"('level', 'ram')",3.794814363314389
+False,0,85,"('compression', 'ram')",2.162729725339567
+False,0,85,"('level',)",4.442865367782456
+False,0,85,"('cores', 'ram')",2.799512275260813
+False,0,85,"('cores', 'wind_size_unl')",2.7372128956270845
+False,0,85,"('encrypt', 'ram')",2.498023105071719
+False,0,85,"('ram', 'wind_size_unl')",2.972853762125425
+False,0,85,"('level', 'wind_size_unl')",3.7624270481806894
+False,0,85,"('cores',)",3.8191373258074575
+False,0,85,"('ram',)",2.3363618990926227
+False,0,85,"('compression',)",1.4020549723358595
+False,0,85,"('compression', 'cores')",2.056214546047562
+False,0,85,"('ram', 'threshold')",2.7478584624409352
+False,0,85,"('encrypt', 'level')",2.81637373454806
+False,0,85,"('level', 'threshold')",3.9600276823396494
+False,0,85,"('compression', 'level')",2.123737125367198
+False,0,85,"('compression', 'threshold')",1.8792709580137696
+False,0,85,"('encrypt',)",1.7111162967424094
+False,0,85,"('wind_size_unl',)",1.8563831357971703
+False,0,85,"('threshold',)",1.891799674748558
+False,0,90,"('ram',)",2.2882123872204083
+False,0,90,"('cores', 'ram')",2.731770441937769
+False,0,90,"('cores', 'level')",2.558338875435422
+False,0,90,"('level', 'ram')",3.7588446792305534
+False,0,90,"('encrypt', 'ram')",2.537303566238335
+False,0,90,"('compression', 'ram')",2.1484624100556
+False,0,90,"('compression', 'level')",2.0362082657496736
+False,0,90,"('level',)",4.440009628092549
+False,0,90,"('cores', 'wind_size_unl')",2.6493199886354515
+False,0,90,"('compression', 'cores')",2.068628023351798
+False,0,90,"('ram', 'wind_size_unl')",2.953563128936342
+False,0,90,"('ram', 'threshold')",2.738037286397914
+False,0,90,"('encrypt', 'level')",2.898943735670401
+False,0,90,"('level', 'wind_size_unl')",3.5910670437958228
+False,0,90,"('cores',)",3.8031976059961408
+False,0,90,"('compression',)",1.4223905428647037
+False,0,90,"('cores', 'encrypt')",2.4648387274054566
+False,0,90,"('level', 'threshold')",3.870447559577395
+False,0,90,"('compression', 'encrypt')",1.6893084364564113
+False,0,90,"('compression', 'threshold')",1.897120423966788
+False,0,90,"('encrypt',)",1.6947704247969064
+False,0,90,"('wind_size_unl',)",1.8235885875958853
+False,0,90,"('threshold',)",1.9154805876143144
+False,0,95,"('ram',)",2.2490782982114004
+False,0,95,"('cores', 'level')",2.54496209678418
+False,0,95,"('level', 'ram')",3.68036421898164
+False,0,95,"('encrypt', 'ram')",2.410554606640532
+False,0,95,"('compression', 'ram')",2.168296266200893
+False,0,95,"('compression', 'level')",2.021485196735352
+False,0,95,"('level',)",4.1839340526988
+False,0,95,"('cores', 'ram')",2.786060128563145
+False,0,95,"('cores', 'wind_size_unl')",2.699084813925739
+False,0,95,"('compression', 'cores')",2.0767233826807883
+False,0,95,"('ram', 'wind_size_unl')",2.9626038679661857
+False,0,95,"('ram', 'threshold')",2.8262346212443235
+False,0,95,"('level', 'wind_size_unl')",3.532374100311136
+False,0,95,"('level', 'threshold')",3.7991952195920815
+False,0,95,"('cores', 'threshold')",2.7970782140426067
+False,0,95,"('encrypt', 'level')",2.746918611739616
+False,0,95,"('cores',)",3.65841963485379
+False,0,95,"('encrypt',)",1.6618419792216177
+False,0,95,"('wind_size_unl',)",1.8403273004199177
+False,0,95,"('threshold',)",1.8770577930372312
+False,0,100,"('ram',)",2.251477758922745
+False,0,100,"('cores', 'level')",2.58254783860906
+False,0,100,"('level', 'ram')",3.6214732517442223
+False,0,100,"('encrypt', 'ram')",2.454235470723109
+False,0,100,"('compression', 'ram')",2.1633876813072663
+False,0,100,"('compression', 'level')",2.05520800625306
+False,0,100,"('level',)",3.887655728041703
+False,0,100,"('cores', 'ram')",2.8446528288008968
+False,0,100,"('cores', 'wind_size_unl')",2.775264380165419
+False,0,100,"('compression', 'cores')",2.011398526794776
+False,0,100,"('ram', 'wind_size_unl')",3.0384950969492426
+False,0,100,"('ram', 'threshold')",2.939645986762922
+False,0,100,"('level', 'wind_size_unl')",3.522473919979213
+False,0,100,"('level', 'threshold')",3.7533989153971774
+False,0,100,"('cores', 'threshold')",2.89679875133886
+False,0,100,"('encrypt', 'level')",2.7901195155809
+False,0,100,"('cores',)",3.4820577306788865
+False,0,100,"('encrypt',)",1.6769867674505208
+False,0,100,"('wind_size_unl',)",1.8135308799022336
+False,0,100,"('threshold',)",1.7924779017472594
+False,1,15,"('ram',)",2.973494601545717
+False,1,15,"('cores', 'ram')",1.947978554392909
+False,1,15,"('cores', 'level')",2.862419863107937
+False,1,15,"('level', 'ram')",1.7345299107906855
+False,1,15,"('compression', 'ram')",9.158076776126608
+False,1,15,"('compression', 'level')",7.654793646401521
+False,1,20,"('ram',)",3.999262959216465
+False,1,20,"('level', 'ram')",1.909530824768973
+False,1,20,"('level',)",5.809113584977946
+False,1,20,"('cores',)",3.652288887590732
+False,1,25,"('cores', 'ram')",2.4959700487025063
+False,1,25,"('cores', 'level')",2.4573903619828608
+False,1,25,"('level', 'ram')",2.1754012249026085
+False,1,25,"('compression', 'ram')",4.9418929682434936
+False,1,25,"('compression', 'level')",6.173468581418906
+False,1,25,"('cores',)",3.23736816257498
+False,1,25,"('ram',)",3.661077766830878
+False,1,25,"('level',)",4.175068245362604
+False,1,30,"('cores', 'ram')",2.433794988177607
+False,1,30,"('cores', 'level')",2.500226080779071
+False,1,30,"('level', 'ram')",2.2271025650705525
+False,1,30,"('compression', 'ram')",5.099222804456723
+False,1,30,"('level', 'threshold')",2.219703631031813
+False,1,30,"('compression', 'level')",6.272857379738981
+False,1,30,"('ram',)",3.862891903115508
+False,1,35,"('level', 'ram')",2.520340078964915
+False,1,35,"('ram', 'threshold')",2.5966581821608554
+False,1,35,"('compression', 'ram')",4.991603498943687
+False,1,35,"('compression', 'level')",6.57251164022856
+False,1,35,"('ram',)",3.2755745571346644
+False,1,35,"('cores', 'ram')",2.4295757963167786
+False,1,35,"('cores', 'level')",2.378758350519456
+False,1,35,"('cores', 'encrypt')",2.805649778381472
+False,1,35,"('compression', 'cores')",4.567157485313676
+False,1,35,"('encrypt', 'level')",3.218420490292101
+False,1,40,"('cores', 'ram')",2.4156469430863665
+False,1,40,"('cores', 'level')",2.615647383758421
+False,1,40,"('cores', 'threshold')",3.0375136049063536
+False,1,40,"('level', 'ram')",2.3998536461285087
+False,1,40,"('ram', 'wind_size_unl')",2.6590107055673435
+False,1,40,"('ram', 'threshold')",2.787193963902636
+False,1,40,"('compression', 'ram')",4.8504958801378
+False,1,40,"('level', 'wind_size_unl')",2.458779132608784
+False,1,40,"('level', 'threshold')",2.390760462285836
+False,1,40,"('compression', 'level')",5.357568421496566
+False,1,40,"('ram',)",2.856394148504517
+False,1,40,"('cores', 'encrypt')",3.131584836959916
+False,1,40,"('compression', 'cores')",4.83910453305402
+False,1,40,"('encrypt', 'ram')",3.2305548495274543
+False,1,40,"('encrypt', 'level')",3.31422966956836
+False,1,45,"('cores', 'ram')",2.5572750071693533
+False,1,45,"('cores', 'level')",2.369304924217715
+False,1,45,"('level', 'ram')",2.507209637314162
+False,1,45,"('ram', 'threshold')",2.872959000931264
+False,1,45,"('compression', 'ram')",4.668486353869183
+False,1,45,"('compression', 'level')",5.17702984961734
+False,1,45,"('ram',)",2.9141596795947287
+False,1,45,"('cores', 'encrypt')",3.0448143542081985
+False,1,45,"('compression', 'cores')",3.966008784497542
+False,1,45,"('encrypt', 'ram')",3.106550667984355
+False,1,45,"('ram', 'wind_size_unl')",2.7656290150779586
+False,1,45,"('level',)",4.096691763005818
+False,1,50,"('cores', 'ram')",2.6696904433079287
+False,1,50,"('cores', 'level')",2.1146342650887364
+False,1,50,"('level', 'ram')",2.537212190477005
+False,1,50,"('ram', 'threshold')",3.006901743061921
+False,1,50,"('compression', 'ram')",4.81981517711716
+False,1,50,"('compression', 'level')",5.008611707449045
+False,1,50,"('ram',)",2.669978578236362
+False,1,50,"('level', 'wind_size_unl')",2.6767607050553432
+False,1,50,"('level', 'threshold')",2.6495855596982705
+False,1,50,"('level',)",4.152359091163401
+False,1,50,"('ram', 'wind_size_unl')",2.9380723808167737
+False,1,55,"('cores', 'ram')",2.7432227741481263
+False,1,55,"('cores', 'level')",2.356466804888086
+False,1,55,"('cores', 'threshold')",2.9404418624265865
+False,1,55,"('level', 'ram')",2.6842092526136296
+False,1,55,"('ram', 'wind_size_unl')",3.2190145695553904
+False,1,55,"('ram', 'threshold')",3.2684165683056703
+False,1,55,"('compression', 'ram')",5.1479789815026455
+False,1,55,"('level', 'wind_size_unl')",2.778972361733804
+False,1,55,"('level', 'threshold')",2.745093741867936
+False,1,55,"('compression', 'level')",5.219437443418805
+False,1,55,"('ram',)",2.669232835205533
+False,1,55,"('level',)",4.247066024623017
+False,1,55,"('cores',)",4.149469309972331
+False,1,60,"('cores', 'ram')",2.386468930070288
+False,1,60,"('cores', 'level')",2.22041552424076
+False,1,60,"('cores', 'threshold')",2.4730848475233724
+False,1,60,"('level', 'ram')",2.6158509702060555
+False,1,60,"('ram', 'wind_size_unl')",3.2715358676476645
+False,1,60,"('ram', 'threshold')",3.3244198487847703
+False,1,60,"('compression', 'ram')",5.243664508003972
+False,1,60,"('level', 'wind_size_unl')",2.6638924136657978
+False,1,60,"('compression', 'level')",5.281515542062975
+False,1,60,"('level',)",3.989041767871707
+False,1,60,"('ram',)",2.7569902037537384
+False,1,60,"('cores',)",3.643691870589956
+False,1,60,"('encrypt',)",2.0578185890379563
+False,1,60,"('wind_size_unl',)",1.9729380052583383
+False,1,60,"('threshold',)",2.0909784299353578
+False,1,65,"('cores', 'ram')",2.262137838874987
+False,1,65,"('cores', 'level')",2.168985047437455
+False,1,65,"('cores', 'threshold')",2.3437332636599693
+False,1,65,"('level', 'ram')",2.64903780150775
+False,1,65,"('ram', 'wind_size_unl')",3.164901754121607
+False,1,65,"('ram', 'threshold')",3.21628896493275
+False,1,65,"('compression', 'ram')",5.18713673951602
+False,1,65,"('compression', 'level')",5.455711390271563
+False,1,65,"('level',)",3.6045256400834855
+False,1,65,"('level', 'wind_size_unl')",2.6140033584111904
+False,1,65,"('ram',)",2.817235702567638
+False,1,65,"('level', 'threshold')",2.649448950385282
+False,1,70,"('cores', 'ram')",2.2341155782756985
+False,1,70,"('level', 'ram')",2.7001311796722485
+False,1,70,"('level',)",3.5273316246250443
+False,1,70,"('cores', 'level')",2.153358885985959
+False,1,70,"('compression', 'ram')",5.05834605626547
+False,1,70,"('level', 'wind_size_unl')",2.6449161209778858
+False,1,70,"('ram',)",2.801547408264775
+False,1,70,"('encrypt', 'ram')",2.93718438548346
+False,1,70,"('ram', 'threshold')",3.081744124686419
+False,1,70,"('level', 'threshold')",2.644989426600851
+False,1,70,"('compression', 'level')",5.32305473891454
+False,1,70,"('cores',)",3.4723145650769687
+False,1,75,"('cores', 'ram')",2.159451879051367
+False,1,75,"('level', 'ram')",2.527644756412576
+False,1,75,"('level',)",3.35514064547197
+False,1,75,"('cores', 'level')",2.163338248861802
+False,1,75,"('compression', 'ram')",4.06865048292417
+False,1,75,"('level', 'wind_size_unl')",2.495931054213849
+False,1,75,"('ram',)",2.60068188934998
+False,1,75,"('cores', 'threshold')",2.229815279332179
+False,1,75,"('encrypt', 'ram')",2.892328579456392
+False,1,75,"('ram', 'wind_size_unl')",2.6665547731724843
+False,1,75,"('ram', 'threshold')",2.747229866533055
+False,1,75,"('level', 'threshold')",2.537012234631905
+False,1,75,"('compression', 'level')",4.4619455849482215
+False,1,75,"('cores',)",3.500970175930761
+False,1,75,"('wind_size_unl',)",2.042845205019953
+False,1,80,"('ram',)",2.336253127144252
+False,1,80,"('level',)",3.425223951657401
+False,1,80,"('cores', 'ram')",2.093512548730812
+False,1,80,"('cores', 'level')",2.1505209080932226
+False,1,80,"('cores', 'threshold')",2.189880116522884
+False,1,80,"('level', 'ram')",2.547418022133213
+False,1,80,"('encrypt', 'ram')",2.691453701779772
+False,1,80,"('ram', 'wind_size_unl')",2.473086942651656
+False,1,80,"('ram', 'threshold')",2.531768543188841
+False,1,80,"('compression', 'ram')",3.600380223413084
+False,1,80,"('level', 'wind_size_unl')",2.5609600941184487
+False,1,80,"('level', 'threshold')",2.567183071630288
+False,1,80,"('compression', 'level')",4.224108390228436
+False,1,80,"('cores',)",3.573764767750921
+False,1,80,"('wind_size_unl',)",2.02772353450279
+False,1,85,"('ram',)",2.339055785919911
+False,1,85,"('level',)",3.342621599264982
+False,1,85,"('cores', 'ram')",2.0068671594133285
+False,1,85,"('cores', 'wind_size_unl')",2.142315053297131
+False,1,85,"('cores', 'threshold')",2.108164234449382
+False,1,85,"('level', 'ram')",2.52298652275711
+False,1,85,"('encrypt', 'ram')",2.7505585533614627
+False,1,85,"('ram', 'wind_size_unl')",2.487275973791822
+False,1,85,"('ram', 'threshold')",2.5273350538326795
+False,1,85,"('compression', 'ram')",3.6609008245440258
+False,1,85,"('encrypt', 'level')",2.790521615499529
+False,1,85,"('level', 'wind_size_unl')",2.6185554658180914
+False,1,85,"('level', 'threshold')",2.626119822994334
+False,1,85,"('compression', 'level')",4.343996604203362
+False,1,85,"('encrypt', 'wind_size_unl')",3.089230066955471
+False,1,85,"('encrypt', 'threshold')",2.819065571939733
+False,1,85,"('cores', 'level')",2.139591526319069
+False,1,85,"('cores',)",3.359755744176612
+False,1,85,"('wind_size_unl',)",1.9780305281877704
+False,1,90,"('ram',)",2.2673876886261755
+False,1,90,"('level',)",3.5323854994740653
+False,1,90,"('cores', 'ram')",2.053679862969452
+False,1,90,"('cores', 'level')",2.0561520345469906
+False,1,90,"('cores', 'wind_size_unl')",2.148829715400426
+False,1,90,"('cores', 'threshold')",2.1166762335934624
+False,1,90,"('level', 'ram')",2.507622710366164
+False,1,90,"('encrypt', 'ram')",2.736486660559149
+False,1,90,"('ram', 'wind_size_unl')",2.433058825903175
+False,1,90,"('ram', 'threshold')",2.4273717767017167
+False,1,90,"('compression', 'ram')",3.678402227044341
+False,1,90,"('level', 'wind_size_unl')",2.62383675511654
+False,1,90,"('level', 'threshold')",2.581035360837237
+False,1,90,"('compression', 'level')",4.350371998071882
+False,1,90,"('compression', 'cores')",3.8012145603765175
+False,1,90,"('cores',)",3.411612453792584
+False,1,90,"('wind_size_unl',)",1.853557471525229
+False,1,95,"('level', 'ram')",2.614823763730264
+False,1,95,"('ram',)",2.1773613681875927
+False,1,95,"('level',)",3.687054640762878
+False,1,95,"('cores', 'ram')",2.009240965622215
+False,1,95,"('cores', 'level')",2.0617360882101297
+False,1,95,"('cores', 'wind_size_unl')",2.119715688500706
+False,1,95,"('encrypt', 'ram')",2.5654643289136767
+False,1,95,"('ram', 'wind_size_unl')",2.2892041383113217
+False,1,95,"('ram', 'threshold')",2.263861150829741
+False,1,95,"('compression', 'ram')",3.377604804468273
+False,1,95,"('level', 'wind_size_unl')",2.7316711690562965
+False,1,95,"('compression', 'level')",4.362015919518426
+False,1,95,"('cores',)",3.4970748038953423
+False,1,95,"('encrypt', 'level')",2.753485047190936
+False,1,100,"('cores', 'ram')",2.032678686115455
+False,1,100,"('cores', 'level')",2.0594086851668627
+False,1,100,"('level', 'ram')",2.540180597457971
+False,1,100,"('ram', 'threshold')",2.360488393839615
+False,1,100,"('compression', 'level')",4.42021718494535
+False,1,100,"('ram',)",2.1563462332899546
+False,1,100,"('level',)",3.801766896564814
+False,1,100,"('cores', 'wind_size_unl')",2.098869932565593
+False,1,100,"('encrypt', 'ram')",2.6476033627496904
+False,1,100,"('ram', 'wind_size_unl')",2.361421267803147
+False,1,100,"('compression', 'ram')",3.446597818990768
+False,1,100,"('level', 'wind_size_unl')",2.6840382281874424
+False,1,100,"('compression', 'cores')",3.730020853718883
+False,1,100,"('level', 'threshold')",2.640506853274559
+False,1,100,"('cores', 'threshold')",2.0932468017722226
+False,1,100,"('encrypt', 'level')",2.779934482453674
+False,1,100,"('cores', 'encrypt')",2.1463087729308823
+False,2,15,"('cores',)",33.01422626536339
+False,2,15,"('level',)",6.607567986064067
+False,2,15,"('threshold',)",7.021387786702798
+False,2,15,"('cores', 'ram')",8.084470696859574
+False,2,15,"('cores', 'level')",11.436303243454471
+False,2,15,"('level', 'ram')",5.655048528071211
+False,2,15,"('ram', 'wind_size_unl')",4.568345579100558
+False,2,15,"('encrypt', 'level')",35.6374786455824
+False,2,15,"('ram',)",11.673892706216328
+False,2,20,"('cores', 'ram')",4.516919710559988
+False,2,20,"('cores', 'level')",3.8933712481131457
+False,2,20,"('level', 'ram')",4.389048700573156
+False,2,20,"('ram', 'wind_size_unl')",1.737673475930104
+False,2,20,"('compression', 'ram')",1.542605244834623
+False,2,20,"('level', 'threshold')",7.004857247929486
+False,2,20,"('cores',)",4.4817031737590645
+False,2,20,"('ram',)",5.398940159417792
+False,2,20,"('level',)",4.8505115896180895
+False,2,20,"('encrypt',)",3.970792134687766
+False,2,20,"('wind_size_unl',)",2.60757804095285
+False,2,25,"('cores', 'ram')",2.876792650237381
+False,2,25,"('level', 'ram')",4.623466315404789
+False,2,25,"('cores', 'level')",3.1077965774538767
+False,2,25,"('ram', 'wind_size_unl')",1.8591395283209176
+False,2,25,"('ram',)",3.014350478182961
+False,2,25,"('encrypt', 'ram')",3.332352715687432
+False,2,25,"('ram', 'threshold')",2.8250626358758706
+False,2,25,"('compression', 'ram')",1.464567580531512
+False,2,25,"('level', 'wind_size_unl')",6.001292657590876
+False,2,25,"('level',)",4.471122196250411
+False,2,25,"('cores',)",5.327838337150276
+False,2,25,"('wind_size_unl',)",2.237509751611552
+False,2,25,"('threshold',)",2.9885075257948457
+False,2,30,"('ram',)",2.9026309343668366
+False,2,30,"('cores', 'ram')",3.2259362434742243
+False,2,30,"('cores', 'level')",3.586392083586852
+False,2,30,"('level', 'ram')",4.657669683873905
+False,2,30,"('ram', 'wind_size_unl')",1.940916259041182
+False,2,30,"('ram', 'threshold')",2.4879246605744605
+False,2,30,"('compression', 'ram')",1.730331757870642
+False,2,30,"('level', 'wind_size_unl')",5.659752361106714
+False,2,30,"('encrypt', 'ram')",2.607521203982392
+False,2,30,"('level',)",4.4724134887443405
+False,2,30,"('encrypt', 'level')",3.5207084714268104
+False,2,30,"('level', 'threshold')",5.1504106844978255
+False,2,35,"('cores', 'ram')",3.423675066389227
+False,2,35,"('cores', 'level')",3.505245008781274
+False,2,35,"('level', 'ram')",4.686536134670154
+False,2,35,"('ram',)",2.463507027239688
+False,2,35,"('level',)",4.941734240999815
+False,2,35,"('cores', 'threshold')",3.636999296626984
+False,2,35,"('ram', 'threshold')",2.751028056348477
+False,2,35,"('compression', 'ram')",1.7646260846142177
+False,2,35,"('encrypt', 'level')",3.4978581942832347
+False,2,35,"('level', 'wind_size_unl')",5.254182431339537
+False,2,35,"('level', 'threshold')",5.230497270339106
+False,2,35,"('compression', 'level')",1.9913187291414625
+False,2,35,"('cores',)",5.26665847679291
+False,2,35,"('cores', 'encrypt')",3.479584956901753
+False,2,35,"('encrypt', 'ram')",2.655772732382536
+False,2,35,"('ram', 'wind_size_unl')",1.92171982559068
+False,2,35,"('compression', 'wind_size_unl')",1.8303443722242536
+False,2,40,"('cores', 'level')",3.8548163598264926
+False,2,40,"('level', 'ram')",4.243870431656763
+False,2,40,"('ram',)",2.8330369461943885
+False,2,40,"('cores', 'ram')",3.984780900144992
+False,2,40,"('ram', 'wind_size_unl')",2.2072658745434905
+False,2,40,"('compression', 'ram')",1.8112249280165829
+False,2,40,"('level', 'wind_size_unl')",3.9623761516952105
+False,2,40,"('level', 'threshold')",4.614346474513224
+False,2,40,"('compression', 'level')",2.2017380877932315
+False,2,40,"('encrypt', 'level')",3.281950634398917
+False,2,40,"('level',)",5.219846094897495
+False,2,40,"('encrypt', 'ram')",2.466282683654744
+False,2,40,"('ram', 'threshold')",3.0193650705790605
+False,2,40,"('cores',)",5.38862603012168
+False,2,45,"('level',)",5.3124176131235625
+False,2,45,"('cores', 'ram')",4.032955011808219
+False,2,45,"('cores', 'level')",3.801138910441211
+False,2,45,"('level', 'ram')",3.764186981237812
+False,2,45,"('encrypt', 'ram')",2.9762322786131485
+False,2,45,"('ram', 'threshold')",3.028337445773887
+False,2,45,"('compression', 'ram')",1.864194225165885
+False,2,45,"('level', 'wind_size_unl')",3.5839758798244605
+False,2,45,"('ram',)",2.790096853112667
+False,2,45,"('compression', 'level')",2.167081016495248
+False,2,45,"('cores',)",5.479075499058552
+False,2,45,"('encrypt',)",2.581578462347392
+False,2,45,"('cores', 'encrypt')",4.032441983856179
+False,2,45,"('ram', 'wind_size_unl')",2.472259467382334
+False,2,45,"('encrypt', 'level')",3.651467827027623
+False,2,45,"('threshold', 'wind_size_unl')",3.1596591636186813
+False,2,50,"('ram',)",2.643893093623538
+False,2,50,"('level',)",4.560196735344702
+False,2,50,"('cores', 'ram')",4.0982605055951336
+False,2,50,"('level', 'ram')",3.524738997791057
+False,2,50,"('encrypt', 'ram')",2.990450938855729
+False,2,50,"('ram', 'wind_size_unl')",2.3579101762293595
+False,2,50,"('ram', 'threshold')",3.16583133139776
+False,2,50,"('compression', 'ram')",2.005220805981366
+False,2,50,"('level', 'wind_size_unl')",3.402643732649633
+False,2,50,"('compression', 'level')",2.276836961362108
+False,2,50,"('cores', 'level')",3.5630587105413216
+False,2,50,"('cores',)",4.591363568228903
+False,2,50,"('threshold',)",2.314092000868526
+False,2,50,"('cores', 'encrypt')",4.107399956741743
+False,2,50,"('encrypt', 'level')",3.586955214990856
+False,2,50,"('threshold', 'wind_size_unl')",3.027332106753112
+False,2,55,"('level', 'ram')",3.3884314279002794
+False,2,55,"('ram',)",2.54407782025788
+False,2,55,"('level',)",4.167840597715722
+False,2,55,"('threshold',)",2.159503937616574
+False,2,55,"('cores', 'ram')",4.04106607548975
+False,2,55,"('cores', 'level')",3.580831599182784
+False,2,55,"('cores', 'encrypt')",3.983761536780394
+False,2,55,"('cores', 'wind_size_unl')",3.279194037829537
+False,2,55,"('cores', 'threshold')",3.8631257884382073
+False,2,55,"('compression', 'cores')",2.5853656356896435
+False,2,55,"('encrypt', 'ram')",2.899315096039068
+False,2,55,"('ram', 'wind_size_unl')",2.3279954919798014
+False,2,55,"('ram', 'threshold')",3.01364184178828
+False,2,55,"('compression', 'ram')",2.0208755541443253
+False,2,55,"('encrypt', 'level')",3.5860790510501683
+False,2,55,"('level', 'wind_size_unl')",3.060524673768999
+False,2,55,"('level', 'threshold')",3.19267287899842
+False,2,55,"('compression', 'level')",2.314969784967066
+False,2,55,"('encrypt', 'threshold')",2.919728536163921
+False,2,55,"('compression', 'encrypt')",1.9512650316681333
+False,2,55,"('threshold', 'wind_size_unl')",2.804132554793624
+False,2,55,"('cores',)",4.220729007163533
+False,2,55,"('encrypt',)",2.10502300985308
+False,2,60,"('level',)",3.763697694090261
+False,2,60,"('cores', 'ram')",3.48659156722249
+False,2,60,"('cores', 'level')",3.364896065637153
+False,2,60,"('level', 'ram')",3.117651179989064
+False,2,60,"('encrypt', 'ram')",2.9634653790512435
+False,2,60,"('ram', 'wind_size_unl')",2.2640883554743314
+False,2,60,"('ram', 'threshold')",2.829520694158495
+False,2,60,"('compression', 'ram')",1.969474236968976
+False,2,60,"('level', 'wind_size_unl')",3.056857837164229
+False,2,60,"('level', 'threshold')",2.942523493984018
+False,2,60,"('ram',)",2.631683184131312
+False,2,60,"('cores', 'threshold')",3.631136916427552
+False,2,60,"('compression', 'cores')",2.400787709783568
+False,2,60,"('encrypt', 'level')",3.619353936198699
+False,2,60,"('compression', 'level')",2.2733738666324954
+False,2,60,"('encrypt', 'threshold')",2.86792297462262
+False,2,60,"('cores',)",3.8775294024675486
+False,2,60,"('encrypt',)",2.145026234127245
+False,2,60,"('threshold',)",2.110048807177805
+False,2,60,"('threshold', 'wind_size_unl')",2.768089019822167
+False,2,65,"('level',)",3.731102382996884
+False,2,65,"('cores', 'ram')",3.1393220186565505
+False,2,65,"('cores', 'level')",3.257761380670419
+False,2,65,"('cores', 'wind_size_unl')",3.0021578557458373
+False,2,65,"('cores', 'threshold')",3.6145965226344297
+False,2,65,"('level', 'ram')",3.370741652551762
+False,2,65,"('encrypt', 'ram')",2.813021813402918
+False,2,65,"('ram', 'wind_size_unl')",2.2731848652418427
+False,2,65,"('ram', 'threshold')",2.960829717554209
+False,2,65,"('compression', 'ram')",1.920069661719753
+False,2,65,"('encrypt', 'level')",3.456353870379956
+False,2,65,"('level', 'wind_size_unl')",3.274008550981857
+False,2,65,"('level', 'threshold')",3.137326829561564
+False,2,65,"('compression', 'level')",2.214342916842406
+False,2,65,"('ram',)",2.547670705074306
+False,2,65,"('encrypt', 'threshold')",2.800302492248959
+False,2,65,"('cores',)",3.758541035712157
+False,2,65,"('encrypt',)",2.025294419608674
+False,2,65,"('threshold',)",2.123192299867188
+False,2,65,"('compression', 'cores')",2.3171744252734974
+False,2,65,"('threshold', 'wind_size_unl')",2.7003104253150005
+False,2,70,"('level',)",3.861891293217996
+False,2,70,"('cores', 'ram')",3.0314957027883125
+False,2,70,"('cores', 'level')",3.047446013385341
+False,2,70,"('level', 'ram')",3.2592137371580296
+False,2,70,"('encrypt', 'ram')",2.987216350290428
+False,2,70,"('ram', 'wind_size_unl')",2.245510779071304
+False,2,70,"('ram', 'threshold')",2.9657424156854764
+False,2,70,"('compression', 'ram')",1.9768247715085925
+False,2,70,"('level', 'wind_size_unl')",3.038965424917405
+False,2,70,"('level', 'threshold')",3.154908811436796
+False,2,70,"('compression', 'level')",2.2761214297950136
+False,2,70,"('ram',)",2.4665576689058355
+False,2,70,"('cores', 'threshold')",3.4715408633235576
+False,2,70,"('encrypt', 'level')",3.494947448781041
+False,2,70,"('cores',)",3.657877998225951
+False,2,70,"('encrypt',)",1.905077103679234
+False,2,70,"('threshold',)",2.182644826594284
+False,2,70,"('threshold', 'wind_size_unl')",2.5950588641808707
+False,2,75,"('ram',)",2.519897015582088
+False,2,75,"('level',)",3.8188999235651218
+False,2,75,"('cores', 'ram')",3.12274314595572
+False,2,75,"('cores', 'level')",3.133320115201353
+False,2,75,"('cores', 'threshold')",3.6396014568206487
+False,2,75,"('level', 'ram')",3.021726498439288
+False,2,75,"('encrypt', 'ram')",2.9556463420107044
+False,2,75,"('ram', 'wind_size_unl')",2.354884778872425
+False,2,75,"('ram', 'threshold')",2.924161301449588
+False,2,75,"('compression', 'ram')",1.9114123698214207
+False,2,75,"('encrypt', 'level')",3.1279506953675327
+False,2,75,"('level', 'wind_size_unl')",2.884784965267034
+False,2,75,"('level', 'threshold')",2.848153039895916
+False,2,75,"('compression', 'level')",2.141237068618462
+False,2,75,"('cores',)",3.858264130030083
+False,2,75,"('encrypt',)",1.8553555671118305
+False,2,75,"('wind_size_unl',)",1.800057597003138
+False,2,75,"('threshold',)",2.024086726652352
+False,2,75,"('threshold', 'wind_size_unl')",2.411346972811476
+False,2,80,"('ram',)",2.511697680075589
+False,2,80,"('level',)",3.638976122354896
+False,2,80,"('cores', 'ram')",3.109626562457411
+False,2,80,"('cores', 'level')",3.034699771424949
+False,2,80,"('cores', 'threshold')",3.478561538857459
+False,2,80,"('level', 'ram')",2.9098360326223345
+False,2,80,"('encrypt', 'ram')",3.0280358355447072
+False,2,80,"('ram', 'wind_size_unl')",2.37516020806628
+False,2,80,"('ram', 'threshold')",2.9285739621070346
+False,2,80,"('compression', 'ram')",1.9906354822544383
+False,2,80,"('encrypt', 'level')",3.132623056230356
+False,2,80,"('level', 'wind_size_unl')",2.7180327143040217
+False,2,80,"('level', 'threshold')",2.615114962730289
+False,2,80,"('compression', 'level')",2.18944956245232
+False,2,80,"('cores', 'wind_size_unl')",3.232420251838686
+False,2,80,"('cores',)",3.635831340626896
+False,2,80,"('compression', 'encrypt')",2.0059257650752502
+False,2,80,"('compression', 'cores')",2.397001451304096
+False,2,80,"('encrypt',)",1.751791369333045
+False,2,80,"('wind_size_unl',)",1.8322358362470272
+False,2,80,"('threshold',)",1.9799980915921267
+False,2,80,"('threshold', 'wind_size_unl')",2.43048152785217
+False,2,80,"('cores', 'encrypt')",3.4486295137641303
+False,2,85,"('ram',)",2.426941882372049
+False,2,85,"('level',)",3.8196402815340833
+False,2,85,"('cores', 'ram')",3.1123100182889947
+False,2,85,"('cores', 'level')",2.985963012366956
+False,2,85,"('cores', 'wind_size_unl')",3.275536985890067
+False,2,85,"('level', 'ram')",2.8971572882966163
+False,2,85,"('encrypt', 'ram')",2.9267863305146986
+False,2,85,"('ram', 'wind_size_unl')",2.429436914435458
+False,2,85,"('ram', 'threshold')",2.8844283968375946
+False,2,85,"('compression', 'ram')",2.0003390800703693
+False,2,85,"('encrypt', 'level')",3.105874761074232
+False,2,85,"('level', 'wind_size_unl')",2.7549434851332664
+False,2,85,"('level', 'threshold')",2.6540210787194525
+False,2,85,"('compression', 'level')",2.170635002883546
+False,2,85,"('cores',)",3.8009182786520217
+False,2,85,"('cores', 'threshold')",3.476788068247016
+False,2,85,"('compression', 'cores')",2.400302272349795
+False,2,85,"('encrypt',)",1.8322691837946408
+False,2,85,"('wind_size_unl',)",1.8905029463835787
+False,2,85,"('threshold',)",1.9264957664309657
+False,2,85,"('threshold', 'wind_size_unl')",2.39691024544324
+False,2,90,"('ram',)",2.3821652032913203
+False,2,90,"('level',)",3.8023423328913744
+False,2,90,"('cores', 'ram')",3.094861879081469
+False,2,90,"('cores', 'level')",3.054585109916876
+False,2,90,"('cores', 'wind_size_unl')",3.334350167460556
+False,2,90,"('level', 'ram')",2.807146000098702
+False,2,90,"('encrypt', 'ram')",2.976200525144881
+False,2,90,"('ram', 'wind_size_unl')",2.4891883370924703
+False,2,90,"('ram', 'threshold')",2.866398525191107
+False,2,90,"('compression', 'ram')",1.9991093949159888
+False,2,90,"('encrypt', 'level')",3.214981169255878
+False,2,90,"('level', 'wind_size_unl')",2.6789890453913268
+False,2,90,"('level', 'threshold')",2.573525701875527
+False,2,90,"('compression', 'level')",2.153612456021769
+False,2,90,"('cores',)",3.6243323262062814
+False,2,90,"('encrypt',)",1.781186169863218
+False,2,90,"('wind_size_unl',)",1.898352019455411
+False,2,90,"('threshold',)",1.8362932311329747
+False,2,90,"('compression', 'cores')",2.354074691256979
+False,2,90,"('cores', 'encrypt')",3.451292213709216
+False,2,95,"('ram',)",2.377377603246859
+False,2,95,"('level',)",3.856313441846275
+False,2,95,"('cores', 'ram')",3.059615665514177
+False,2,95,"('cores', 'level')",3.002106074680769
+False,2,95,"('cores', 'wind_size_unl')",3.219185438592364
+False,2,95,"('level', 'ram')",2.900773152701501
+False,2,95,"('encrypt', 'ram')",2.998415569662224
+False,2,95,"('ram', 'wind_size_unl')",2.421806153105294
+False,2,95,"('ram', 'threshold')",2.795361508417132
+False,2,95,"('compression', 'ram')",1.8668793511966968
+False,2,95,"('encrypt', 'level')",3.24134159720234
+False,2,95,"('level', 'wind_size_unl')",2.7272078778609767
+False,2,95,"('level', 'threshold')",2.6171777396250864
+False,2,95,"('compression', 'level')",2.070693889952439
+False,2,95,"('cores',)",3.624666621332137
+False,2,95,"('encrypt',)",1.7371633756348808
+False,2,95,"('wind_size_unl',)",1.890073123702201
+False,2,95,"('threshold',)",1.8225955427406064
+False,2,95,"('compression', 'cores')",2.224810500398616
+False,2,95,"('cores', 'encrypt')",3.367801871180196
+False,2,100,"('ram',)",2.354131939185039
+False,2,100,"('level',)",3.984630504155987
+False,2,100,"('cores', 'ram')",3.0193583545852896
+False,2,100,"('cores', 'level')",3.081884795452725
+False,2,100,"('cores', 'wind_size_unl')",3.2826577096569736
+False,2,100,"('level', 'ram')",2.921930974513532
+False,2,100,"('encrypt', 'ram')",3.027183331996452
+False,2,100,"('ram', 'wind_size_unl')",2.500320123485098
+False,2,100,"('ram', 'threshold')",2.7871044255304955
+False,2,100,"('compression', 'ram')",1.8875472048353563
+False,2,100,"('encrypt', 'level')",3.309213775764653
+False,2,100,"('level', 'wind_size_unl')",2.775692267227712
+False,2,100,"('level', 'threshold')",2.672077168298748
+False,2,100,"('compression', 'level')",2.1344975067995047
+False,2,100,"('compression', 'cores')",2.217287189278719
+False,2,100,"('cores', 'encrypt')",3.397103403611547
+False,3,15,"('ram',)",14.847942597314876
+False,3,15,"('cores', 'level')",3.2501220396220343
+False,3,15,"('level', 'ram')",7.236103663985698
+False,3,15,"('level', 'threshold')",7.076243700563031
+False,3,15,"('compression', 'level')",4.68106396507871
+False,3,15,"('cores', 'ram')",2.609594271741947
+False,3,15,"('encrypt', 'ram')",15.157663509459807
+False,3,20,"('cores',)",9.096514015467545
+False,3,20,"('ram',)",5.643089267513532
+False,3,20,"('level',)",5.357590301478834
+False,3,20,"('wind_size_unl',)",4.0779613099447705
+False,3,20,"('threshold',)",2.8921783448118727
+False,3,20,"('level', 'ram')",5.9691726111590055
+False,3,20,"('compression', 'ram')",5.108967612208075
+False,3,20,"('level', 'wind_size_unl')",5.411291539009332
+False,3,20,"('level', 'threshold')",3.874988925448856
+False,3,20,"('cores', 'ram')",2.211272321372881
+False,3,20,"('cores', 'level')",2.693247090075452
+False,3,20,"('encrypt', 'ram')",12.383054221068974
+False,3,20,"('ram', 'wind_size_unl')",3.7869094576243447
+False,3,20,"('encrypt', 'level')",9.60752230207702
+False,3,25,"('level',)",6.484846211405993
+False,3,25,"('cores', 'ram')",2.51028400206621
+False,3,25,"('cores', 'level')",2.6278606905312345
+False,3,25,"('level', 'ram')",4.9673764050174505
+False,3,25,"('encrypt', 'ram')",4.610695962947248
+False,3,25,"('ram', 'wind_size_unl')",3.3634341215288
+False,3,25,"('ram', 'threshold')",3.670777067743321
+False,3,25,"('compression', 'ram')",5.856871582532902
+False,3,25,"('level', 'wind_size_unl')",5.2169536435300685
+False,3,25,"('compression', 'level')",3.161735844879666
+False,3,25,"('ram',)",2.553781229635105
+False,3,25,"('encrypt', 'level')",7.565147713393001
+False,3,25,"('cores', 'encrypt')",2.319450411578652
+False,3,25,"('cores', 'threshold')",2.2479192762548514
+False,3,25,"('cores',)",4.489998934055327
+False,3,25,"('threshold',)",2.14033106223476
+False,3,30,"('level', 'ram')",4.229194294483219
+False,3,30,"('level',)",5.23954780298982
+False,3,30,"('cores', 'ram')",2.898458609726964
+False,3,30,"('cores', 'level')",2.572136750567958
+False,3,30,"('ram', 'wind_size_unl')",3.2823819897004607
+False,3,30,"('ram', 'threshold')",2.297895207482453
+False,3,30,"('compression', 'ram')",2.427289352084073
+False,3,30,"('level', 'wind_size_unl')",4.867425429624547
+False,3,30,"('compression', 'level')",1.883902062634211
+False,3,30,"('ram',)",2.7292154680072738
+False,3,30,"('cores', 'encrypt')",2.6135739948334
+False,3,30,"('compression', 'cores')",2.3286932444969106
+False,3,30,"('encrypt', 'level')",6.098797999691066
+False,3,30,"('level', 'threshold')",4.630929232770505
+False,3,30,"('encrypt', 'wind_size_unl')",4.500878247173289
+False,3,30,"('cores',)",4.18932375471458
+False,3,30,"('threshold',)",2.074211589332317
+False,3,35,"('level', 'ram')",4.506664443077263
+False,3,35,"('cores', 'ram')",2.92609271068465
+False,3,35,"('cores', 'level')",2.5299471238285127
+False,3,35,"('ram', 'wind_size_unl')",2.766868936688622
+False,3,35,"('ram', 'threshold')",2.264251187699426
+False,3,35,"('compression', 'level')",1.8426842976450888
+False,3,35,"('encrypt', 'ram')",3.632034759172566
+False,3,35,"('level',)",5.046394186347722
+False,3,35,"('cores',)",3.859207224037171
+False,3,35,"('ram',)",2.468948203220617
+False,3,35,"('threshold',)",2.07964528775965
+False,3,40,"('level', 'ram')",4.544946127105142
+False,3,40,"('cores', 'ram')",2.985001529488858
+False,3,40,"('cores', 'level')",2.9205996814835187
+False,3,40,"('ram', 'wind_size_unl')",2.6474782777220667
+False,3,40,"('ram', 'threshold')",2.4426513416360685
+False,3,40,"('compression', 'level')",2.034532747841576
+False,3,40,"('compression', 'ram')",2.4027093589752635
+False,3,40,"('encrypt', 'ram')",3.509227306372756
+False,3,40,"('level',)",4.365856684234863
+False,3,40,"('cores',)",3.2876481313619896
+False,3,40,"('ram',)",2.290199868018554
+False,3,40,"('threshold',)",1.9421496107231253
+False,3,45,"('cores', 'level')",2.7565275575190693
+False,3,45,"('level', 'ram')",4.383753562315925
+False,3,45,"('ram', 'threshold')",2.501971076063221
+False,3,45,"('level', 'threshold')",4.6982163775898105
+False,3,45,"('level',)",5.016507719958561
+False,3,45,"('cores', 'ram')",2.941488007947001
+False,3,45,"('ram', 'wind_size_unl')",2.782187630068256
+False,3,45,"('compression', 'ram')",2.602774131923634
+False,3,45,"('level', 'wind_size_unl')",4.545662325327102
+False,3,45,"('compression', 'level')",2.216759632772205
+False,3,45,"('encrypt', 'ram')",3.310398394465795
+False,3,45,"('cores',)",3.603878159549494
+False,3,45,"('ram',)",2.350218905955008
+False,3,45,"('encrypt',)",1.9612086769515056
+False,3,45,"('threshold',)",2.142228649489611
+False,3,50,"('cores', 'level')",2.393325354741329
+False,3,50,"('level', 'ram')",4.171703488444862
+False,3,50,"('ram', 'wind_size_unl')",2.7148041778669056
+False,3,50,"('level', 'threshold')",4.037445394094619
+False,3,50,"('compression', 'level')",2.194503900718457
+False,3,50,"('ram',)",2.322000138699964
+False,3,50,"('level',)",4.660392829480284
+False,3,50,"('cores', 'ram')",2.871601420106543
+False,3,50,"('cores', 'wind_size_unl')",2.4182893515944697
+False,3,50,"('compression', 'ram')",2.637937628244268
+False,3,50,"('encrypt', 'level')",4.908717476046273
+False,3,50,"('level', 'wind_size_unl')",3.987076857177567
+False,3,50,"('ram', 'threshold')",2.6150245740973834
+False,3,50,"('encrypt', 'ram')",3.256153092837729
+False,3,50,"('cores',)",3.7365003035295614
+False,3,50,"('encrypt',)",1.836207254007343
+False,3,50,"('threshold',)",2.3048949765285007
+False,3,55,"('ram',)",2.32640115455522
+False,3,55,"('cores', 'level')",2.3666963973298327
+False,3,55,"('cores', 'threshold')",2.354681012901916
+False,3,55,"('compression', 'cores')",1.9891830173804408
+False,3,55,"('level', 'ram')",4.076370663307841
+False,3,55,"('encrypt', 'ram')",3.339307248396922
+False,3,55,"('ram', 'wind_size_unl')",2.657256527520904
+False,3,55,"('level', 'threshold')",4.008083103153624
+False,3,55,"('compression', 'level')",2.213120204128363
+False,3,55,"('level',)",4.135766761879582
+False,3,55,"('cores', 'ram')",2.926919083000372
+False,3,55,"('compression', 'ram')",2.34705608577554
+False,3,55,"('encrypt', 'level')",4.744352972970207
+False,3,55,"('level', 'wind_size_unl')",3.96718088265516
+False,3,55,"('cores',)",3.8444669386629737
+False,3,55,"('encrypt',)",1.723592208930115
+False,3,55,"('threshold',)",2.2957604263939784
+False,3,60,"('ram',)",2.390427836811545
+False,3,60,"('level',)",4.081127452609547
+False,3,60,"('cores', 'level')",2.47102489768212
+False,3,60,"('cores', 'threshold')",2.3564907548318312
+False,3,60,"('level', 'ram')",4.082407360025594
+False,3,60,"('encrypt', 'ram')",3.3756236277156386
+False,3,60,"('ram', 'wind_size_unl')",2.747842839808617
+False,3,60,"('ram', 'threshold')",2.614931707756533
+False,3,60,"('encrypt', 'level')",4.50024155959004
+False,3,60,"('compression', 'level')",2.171000158739182
+False,3,60,"('cores', 'ram')",2.7742611770087686
+False,3,60,"('compression', 'ram')",2.3269922164150505
+False,3,60,"('level', 'wind_size_unl')",3.9944754945619554
+False,3,60,"('cores',)",3.606484217777424
+False,3,60,"('encrypt',)",1.8267733310729315
+False,3,60,"('threshold',)",2.3744824176448667
+False,3,65,"('cores',)",3.579725915598927
+False,3,65,"('cores', 'ram')",2.6296362801907724
+False,3,65,"('cores', 'encrypt')",2.308043212150819
+False,3,65,"('cores', 'wind_size_unl')",2.366601947138065
+False,3,65,"('cores', 'threshold')",2.285046706527864
+False,3,65,"('level', 'ram')",3.880193741966784
+False,3,65,"('ram', 'wind_size_unl')",2.6937757418386146
+False,3,65,"('ram', 'threshold')",2.6087426886045524
+False,3,65,"('level', 'wind_size_unl')",3.8909247969311385
+False,3,65,"('compression', 'level')",2.193451724988761
+False,3,65,"('level',)",4.221729839073873
+False,3,65,"('cores', 'level')",2.2499516411271654
+False,3,65,"('encrypt', 'ram')",3.337463958934472
+False,3,65,"('compression', 'ram')",2.3277189772029514
+False,3,65,"('encrypt', 'level')",4.244937000493165
+False,3,65,"('ram',)",2.3763973070641864
+False,3,65,"('wind_size_unl',)",1.9552281559358915
+False,3,65,"('threshold',)",2.206727672193574
+False,3,65,"('encrypt',)",1.8554997636445656
+False,3,70,"('ram',)",2.4668918200577155
+False,3,70,"('cores', 'threshold')",2.413717228127543
+False,3,70,"('level', 'ram')",3.978700117876381
+False,3,70,"('encrypt', 'ram')",3.4999885336303764
+False,3,70,"('ram', 'wind_size_unl')",2.7623328004856824
+False,3,70,"('ram', 'threshold')",2.690890587891224
+False,3,70,"('compression', 'ram')",2.317229363766307
+False,3,70,"('level', 'threshold')",3.964374358158856
+False,3,70,"('compression', 'level')",2.102248561157619
+False,3,70,"('level',)",4.292317978064547
+False,3,70,"('cores', 'ram')",2.813681229576279
+False,3,70,"('cores', 'level')",2.2255630961569577
+False,3,70,"('level', 'wind_size_unl')",4.042369141665003
+False,3,70,"('cores',)",3.1635676253703
+False,3,70,"('encrypt',)",1.7862004521324564
+False,3,75,"('ram',)",2.620787519474594
+False,3,75,"('cores', 'threshold')",2.561428887469876
+False,3,75,"('level', 'ram')",3.699353704280667
+False,3,75,"('encrypt', 'ram')",3.559089566943937
+False,3,75,"('ram', 'wind_size_unl')",2.7658972242107187
+False,3,75,"('ram', 'threshold')",2.720854521068314
+False,3,75,"('compression', 'ram')",2.398774000484844
+False,3,75,"('level', 'threshold')",3.638726970417398
+False,3,75,"('compression', 'level')",2.117665627115888
+False,3,75,"('level',)",4.5585303593094855
+False,3,75,"('cores', 'ram')",2.992881915822585
+False,3,75,"('cores', 'level')",2.3384006774695867
+False,3,75,"('cores', 'wind_size_unl')",2.5823692858523137
+False,3,75,"('level', 'wind_size_unl')",3.6290434924744215
+False,3,75,"('compression', 'cores')",2.186465648984713
+False,3,75,"('cores',)",3.3343224083220333
+False,3,75,"('encrypt',)",1.8023940428682244
+False,3,80,"('ram',)",2.688737468666088
+False,3,80,"('cores', 'ram')",3.07489839889518
+False,3,80,"('cores', 'threshold')",2.6490710397355945
+False,3,80,"('level', 'ram')",3.570873630200855
+False,3,80,"('encrypt', 'ram')",3.3521962773575864
+False,3,80,"('ram', 'threshold')",2.8037689093186566
+False,3,80,"('compression', 'ram')",2.380122856940016
+False,3,80,"('level', 'threshold')",3.621298903963951
+False,3,80,"('compression', 'level')",2.2386562499134777
+False,3,80,"('level',)",4.652947384967689
+False,3,80,"('cores', 'level')",2.4125301446743395
+False,3,80,"('ram', 'wind_size_unl')",2.840520128509381
+False,3,80,"('level', 'wind_size_unl')",3.5312783845042177
+False,3,80,"('encrypt', 'level')",3.888428380868841
+False,3,80,"('cores',)",3.5050178954619566
+False,3,80,"('encrypt',)",1.8378839235558604
+False,3,85,"('ram',)",2.643663056519652
+False,3,85,"('cores', 'ram')",2.88343950706791
+False,3,85,"('cores', 'threshold')",2.5136336449919794
+False,3,85,"('level', 'ram')",3.576225165432949
+False,3,85,"('encrypt', 'ram')",3.33522741044968
+False,3,85,"('ram', 'threshold')",2.788057819442703
+False,3,85,"('compression', 'ram')",2.2974380239485312
+False,3,85,"('level', 'threshold')",3.560605563303351
+False,3,85,"('compression', 'level')",2.111120696466436
+False,3,85,"('level',)",4.644809169141759
+False,3,85,"('cores', 'level')",2.353832658804214
+False,3,85,"('ram', 'wind_size_unl')",2.8433145045225965
+False,3,85,"('level', 'wind_size_unl')",3.422794416436496
+False,3,85,"('cores',)",3.2507787903773573
+False,3,85,"('encrypt',)",1.833268224217068
+False,3,90,"('ram',)",2.659419818933802
+False,3,90,"('cores', 'level')",2.432993799882265
+False,3,90,"('level', 'ram')",3.676948361551645
+False,3,90,"('encrypt', 'ram')",3.2794673348210224
+False,3,90,"('compression', 'ram')",2.27776329749963
+False,3,90,"('level', 'threshold')",3.6650980494433
+False,3,90,"('compression', 'level')",2.1414998838070645
+False,3,90,"('level',)",4.633773948458513
+False,3,90,"('cores', 'ram')",2.8831824250843314
+False,3,90,"('ram', 'wind_size_unl')",2.846429344314535
+False,3,90,"('level', 'wind_size_unl')",3.593059124640748
+False,3,90,"('cores',)",3.2747948050565485
+False,3,90,"('cores', 'wind_size_unl')",2.5159975259950578
+False,3,90,"('ram', 'threshold')",2.792028187219182
+False,3,90,"('encrypt', 'level')",3.999063726913197
+False,3,90,"('encrypt',)",1.8203513912542109
+False,3,95,"('cores', 'level')",2.5212127532453805
+False,3,95,"('level', 'ram')",3.818364907631005
+False,3,95,"('encrypt', 'ram')",3.2520229989429823
+False,3,95,"('compression', 'ram')",2.2103628426328488
+False,3,95,"('level', 'threshold')",3.804454132572313
+False,3,95,"('compression', 'level')",2.203410794264076
+False,3,95,"('ram',)",2.5706064239434183
+False,3,95,"('level',)",4.3679948502155845
+False,3,95,"('cores', 'ram')",2.89164418166842
+False,3,95,"('cores', 'wind_size_unl')",2.557527511974916
+False,3,95,"('ram', 'wind_size_unl')",2.7342664910658496
+False,3,95,"('level', 'wind_size_unl')",3.697024648238712
+False,3,95,"('ram', 'threshold')",2.761279807391645
+False,3,95,"('encrypt', 'level')",4.128907048231147
+False,3,95,"('cores',)",3.2807243294886868
+False,3,95,"('cores', 'threshold')",2.600936314228214
+False,3,95,"('encrypt',)",1.8007968149602365
+False,3,100,"('cores', 'level')",2.5603885633382184
+False,3,100,"('level', 'ram')",3.738561703456461
+False,3,100,"('encrypt', 'ram')",3.26093247100006
+False,3,100,"('compression', 'ram')",2.193306309055394
+False,3,100,"('level', 'threshold')",3.70482643987658
+False,3,100,"('compression', 'level')",2.1823648188327187
+False,3,100,"('ram',)",2.579758989994782
+False,3,100,"('level',)",4.364959178260099
+False,3,100,"('cores', 'ram')",2.9316997112315564
+False,3,100,"('cores', 'wind_size_unl')",2.601009181286382
+False,3,100,"('ram', 'wind_size_unl')",2.8068328586856985
+False,3,100,"('ram', 'threshold')",2.784155653836264
+False,3,100,"('encrypt', 'level')",4.109034400077919
+False,3,100,"('level', 'wind_size_unl')",3.609724995996912
+False,3,100,"('cores',)",3.290689883526469
+False,3,100,"('compression', 'cores')",2.023506052813461
+False,3,100,"('cores', 'threshold')",2.619333566546924
+False,3,100,"('encrypt',)",1.7421071888411424
+False,4,15,"('cores',)",9.872034624964275
+False,4,15,"('ram',)",14.834497026118433
+False,4,15,"('cores', 'ram')",5.083061419617247
+False,4,15,"('cores', 'level')",6.309832482323476
+False,4,15,"('ram', 'wind_size_unl')",4.451841296479269
+False,4,15,"('level', 'ram')",3.56146814340648
+False,4,20,"('cores',)",7.423783690495234
+False,4,20,"('ram',)",2.5316347196705595
+False,4,20,"('level',)",13.578249517000796
+False,4,20,"('wind_size_unl',)",3.6853573419297097
+False,4,20,"('compression',)",3.526509010743798
+False,4,20,"('cores', 'ram')",5.841294829045354
+False,4,20,"('cores', 'level')",3.26841767854946
+False,4,20,"('level', 'ram')",4.884837075263774
+False,4,20,"('encrypt', 'ram')",4.031586305434234
+False,4,20,"('ram', 'wind_size_unl')",3.372470908183975
+False,4,20,"('ram', 'threshold')",3.220291700211567
+False,4,20,"('compression', 'ram')",3.282806859488103
+False,4,20,"('encrypt', 'level')",5.439297196259044
+False,4,20,"('level', 'wind_size_unl')",4.331410989761898
+False,4,20,"('compression', 'level')",3.2145777311471218
+False,4,20,"('cores', 'threshold')",3.5336633332296694
+False,4,20,"('level', 'threshold')",4.6502497946453785
+False,4,25,"('ram',)",3.1954471393792123
+False,4,25,"('level',)",8.018864294201926
+False,4,25,"('wind_size_unl',)",3.002226252434864
+False,4,25,"('cores', 'ram')",3.606961038217176
+False,4,25,"('cores', 'level')",2.101198912832894
+False,4,25,"('level', 'ram')",5.181681693493016
+False,4,25,"('ram', 'wind_size_unl')",3.267206671894431
+False,4,25,"('ram', 'threshold')",4.219463211364846
+False,4,25,"('encrypt', 'level')",4.551740566933845
+False,4,25,"('level', 'wind_size_unl')",4.096852616839813
+False,4,25,"('compression', 'level')",2.384264762346001
+False,4,25,"('encrypt', 'wind_size_unl')",4.248385205733053
+False,4,25,"('compression', 'ram')",1.79502317699827
+False,4,30,"('cores', 'ram')",2.931603490117728
+False,4,30,"('cores', 'level')",2.026379409589852
+False,4,30,"('level', 'ram')",4.156932123252413
+False,4,30,"('encrypt', 'ram')",3.434335623684118
+False,4,30,"('ram', 'threshold')",3.477644974810054
+False,4,30,"('compression', 'ram')",1.6199593411906483
+False,4,30,"('compression', 'level')",2.1085895575292475
+False,4,30,"('ram',)",2.5994033991575254
+False,4,35,"('level', 'ram')",2.598998430477219
+False,4,35,"('cores', 'ram')",3.0993039462514207
+False,4,35,"('cores', 'level')",1.953518635516717
+False,4,35,"('ram', 'wind_size_unl')",2.9683507432991583
+False,4,35,"('encrypt', 'ram')",3.104712088454544
+False,4,35,"('compression', 'ram')",1.6581242922871766
+False,4,35,"('ram', 'threshold')",3.118582456161492
+False,4,35,"('encrypt', 'level')",3.314575614832149
+False,4,35,"('compression', 'level')",2.125373232734934
+False,4,35,"('ram',)",2.702159974565422
+False,4,35,"('level',)",5.303979507460908
+False,4,40,"('level', 'ram')",2.710686265092114
+False,4,40,"('cores', 'ram')",3.151386065620528
+False,4,40,"('cores', 'level')",2.10555171632392
+False,4,40,"('compression', 'ram')",1.5596596784111945
+False,4,40,"('ram',)",2.67116429538342
+False,4,40,"('level',)",5.354440954071009
+False,4,45,"('cores', 'ram')",2.675951050281452
+False,4,45,"('cores', 'level')",2.194268394731207
+False,4,45,"('level', 'ram')",2.895133851431182
+False,4,45,"('compression', 'ram')",1.5639103173754558
+False,4,45,"('compression', 'level')",1.896306898799965
+False,4,45,"('ram',)",2.4795312649383368
+False,4,45,"('level',)",4.944821277290894
+False,4,50,"('cores', 'ram')",2.527525252634079
+False,4,50,"('level', 'ram')",2.9379747327674366
+False,4,50,"('cores', 'level')",2.140566433452653
+False,4,50,"('ram', 'wind_size_unl')",2.7933173573402263
+False,4,50,"('compression', 'ram')",1.6523220155323617
+False,4,50,"('compression', 'level')",2.03382934055875
+False,4,50,"('ram',)",2.4998686658148723
+False,4,50,"('cores',)",4.246046284625511
+False,4,50,"('level',)",5.1580952245063765
+False,4,55,"('cores', 'ram')",2.5040520052519084
+False,4,55,"('level', 'ram')",2.8626682225746185
+False,4,55,"('level',)",5.3395489032688905
+False,4,55,"('cores', 'level')",2.1870806496367896
+False,4,55,"('encrypt', 'ram')",4.105843609180159
+False,4,55,"('ram', 'wind_size_unl')",3.0105991380999075
+False,4,55,"('compression', 'ram')",1.7441564249141013
+False,4,55,"('level', 'wind_size_unl')",2.882320667144548
+False,4,55,"('compression', 'level')",1.969454349460108
+False,4,55,"('ram', 'threshold')",2.873656975325781
+False,4,55,"('ram',)",2.453729143358356
+False,4,55,"('cores',)",4.224704613680823
+False,4,60,"('cores', 'ram')",2.5433039120819467
+False,4,60,"('level',)",5.382204112098164
+False,4,60,"('cores', 'level')",2.2160677761850347
+False,4,60,"('level', 'ram')",2.997020908305862
+False,4,60,"('compression', 'ram')",1.803510299215193
+False,4,60,"('level', 'wind_size_unl')",3.063775146765746
+False,4,60,"('ram', 'wind_size_unl')",2.8598605864928364
+False,4,60,"('compression', 'level')",2.053117606622467
+False,4,60,"('ram',)",2.650433920545813
+False,4,60,"('encrypt', 'ram')",4.304111980183022
+False,4,60,"('cores',)",4.161067028328119
+False,4,65,"('cores', 'ram')",2.668174382976184
+False,4,65,"('cores', 'level')",2.3577479261197865
+False,4,65,"('level', 'ram')",3.0269533716436414
+False,4,65,"('ram', 'wind_size_unl')",3.013431714730209
+False,4,65,"('ram', 'threshold')",2.772525792780905
+False,4,65,"('compression', 'level')",1.953491912130876
+False,4,65,"('level',)",5.68979393122885
+False,4,65,"('encrypt', 'ram')",4.084444264233642
+False,4,65,"('compression', 'ram')",1.7418324708659287
+False,4,65,"('level', 'wind_size_unl')",3.020390118808064
+False,4,65,"('ram',)",2.800272844267169
+False,4,65,"('cores',)",4.104883172702422
+False,4,70,"('cores', 'ram')",2.77054528920848
+False,4,70,"('level', 'ram')",2.997717608652912
+False,4,70,"('level',)",5.890003055637549
+False,4,70,"('cores', 'level')",2.3414696703401385
+False,4,70,"('encrypt', 'ram')",4.095371249672295
+False,4,70,"('compression', 'ram')",1.8012210239869728
+False,4,70,"('level', 'wind_size_unl')",2.938721227334806
+False,4,70,"('ram', 'wind_size_unl')",2.954015307781079
+False,4,70,"('ram',)",2.673624232781708
+False,4,70,"('ram', 'threshold')",2.708934052053377
+False,4,70,"('compression', 'level')",2.0201546526647896
+False,4,70,"('level', 'threshold')",3.070025539725212
+False,4,70,"('cores',)",4.125390264951939
+False,4,75,"('cores', 'ram')",2.653290585616248
+False,4,75,"('level', 'ram')",3.1178171796217864
+False,4,75,"('level',)",5.484605547524205
+False,4,75,"('cores', 'level')",2.4089011768724418
+False,4,75,"('encrypt', 'ram')",3.738511294184432
+False,4,75,"('compression', 'ram')",1.867312421670677
+False,4,75,"('level', 'wind_size_unl')",3.01617498614575
+False,4,75,"('ram', 'wind_size_unl')",2.872665151710498
+False,4,75,"('encrypt', 'level')",3.5509507212597784
+False,4,75,"('ram',)",2.524253939996136
+False,4,75,"('ram', 'threshold')",2.6574298397926195
+False,4,75,"('compression', 'level')",2.0702120772224752
+False,4,80,"('cores', 'ram')",2.625262580388431
+False,4,80,"('level', 'ram')",2.8816250289643563
+False,4,80,"('level',)",4.876488585109853
+False,4,80,"('cores', 'level')",2.4763611916228365
+False,4,80,"('encrypt', 'ram')",3.816654262920684
+False,4,80,"('compression', 'ram')",1.8658704210063768
+False,4,80,"('encrypt', 'level')",3.506196535252022
+False,4,80,"('level', 'wind_size_unl')",2.9960683132026937
+False,4,80,"('ram', 'wind_size_unl')",2.7848375035267123
+False,4,80,"('ram', 'threshold')",2.5821593766896984
+False,4,80,"('compression', 'level')",2.111630266236023
+False,4,80,"('ram',)",2.5775094332098343
+False,4,80,"('level', 'threshold')",3.0444690345055534
+False,4,85,"('cores', 'ram')",2.7333035150638185
+False,4,85,"('level', 'ram')",2.6534172633387776
+False,4,85,"('level',)",4.824893824565351
+False,4,85,"('cores', 'level')",2.5464130451032894
+False,4,85,"('encrypt', 'ram')",3.295280081495909
+False,4,85,"('ram', 'wind_size_unl')",2.721079170791683
+False,4,85,"('ram', 'threshold')",2.440431034133375
+False,4,85,"('compression', 'ram')",1.7919265198596916
+False,4,85,"('encrypt', 'level')",3.30824811502534
+False,4,85,"('level', 'wind_size_unl')",2.999605103936905
+False,4,85,"('compression', 'level')",2.036486387614291
+False,4,85,"('ram',)",2.4840885845281937
+False,4,85,"('level', 'threshold')",3.0121127204193
+False,4,90,"('cores', 'ram')",2.661596558634109
+False,4,90,"('level', 'ram')",2.728286461646406
+False,4,90,"('level',)",4.743104087258878
+False,4,90,"('cores', 'level')",2.5392818891579063
+False,4,90,"('encrypt', 'ram')",3.2134584028923934
+False,4,90,"('ram', 'wind_size_unl')",2.571468590520216
+False,4,90,"('compression', 'ram')",1.7986702126099796
+False,4,90,"('level', 'wind_size_unl')",3.0861682945072566
+False,4,90,"('encrypt', 'level')",3.284358405503422
+False,4,90,"('compression', 'level')",2.04798689941944
+False,4,90,"('ram',)",2.4047779557091933
+False,4,90,"('level', 'threshold')",3.059284894560265
+False,4,95,"('cores', 'ram')",2.7202682281398114
+False,4,95,"('level', 'ram')",2.737660349158088
+False,4,95,"('ram',)",2.4060082404617087
+False,4,95,"('level',)",4.738987419302831
+False,4,95,"('cores', 'level')",2.577457463870373
+False,4,95,"('cores', 'wind_size_unl')",2.6066947281592365
+False,4,95,"('encrypt', 'ram')",3.3018719659160065
+False,4,95,"('ram', 'wind_size_unl')",2.5605654837018195
+False,4,95,"('ram', 'threshold')",2.3970572246285515
+False,4,95,"('compression', 'ram')",1.825246762855811
+False,4,95,"('level', 'wind_size_unl')",3.174320761728823
+False,4,95,"('compression', 'level')",2.085329894513991
+False,4,95,"('encrypt', 'level')",3.4333476358797586
+False,4,100,"('cores', 'ram')",2.7175753665955864
+False,4,100,"('level', 'ram')",2.767291646830171
+False,4,100,"('ram',)",2.434592415622662
+False,4,100,"('level',)",4.650581671498362
+False,4,100,"('cores', 'level')",2.426332207972881
+False,4,100,"('cores', 'wind_size_unl')",2.4495687564031425
+False,4,100,"('encrypt', 'ram')",3.232649876693355
+False,4,100,"('ram', 'wind_size_unl')",2.595722990142748
+False,4,100,"('ram', 'threshold')",2.4633399531577203
+False,4,100,"('compression', 'ram')",1.87674977867143
+False,4,100,"('level', 'wind_size_unl')",3.2034342522154056
+False,4,100,"('compression', 'level')",2.1524273326561008
+False,4,100,"('encrypt', 'level')",3.35634018637821
+False,4,100,"('level', 'threshold')",3.176961529583332
+False,5,15,"('cores', 'ram')",2.2259950680509784
+False,5,15,"('cores', 'level')",2.3513641613458565
+False,5,15,"('level', 'ram')",18.776885677327265
+False,5,15,"('encrypt', 'ram')",5.741453496857182
+False,5,15,"('ram', 'wind_size_unl')",3.427073258422415
+False,5,15,"('compression', 'level')",3.3650840448166663
+False,5,15,"('ram', 'threshold')",7.217076474265472
+False,5,15,"('compression', 'ram')",2.625047997134692
+False,5,15,"('ram',)",5.002313105589126
+False,5,15,"('level', 'threshold')",17.468676154523433
+False,5,20,"('cores',)",4.062932042435883
+False,5,20,"('ram',)",3.781480067802728
+False,5,20,"('compression',)",2.2809979978091506
+False,5,20,"('level', 'ram')",2.377935022929104
+False,5,20,"('compression', 'ram')",2.1026167634846025
+False,5,20,"('cores', 'level')",1.809228010126505
+False,5,20,"('ram', 'threshold')",4.220414188321862
+False,5,25,"('cores', 'ram')",3.243574843890044
+False,5,25,"('level', 'ram')",2.7893232176932226
+False,5,25,"('cores', 'level')",2.28167151138324
+False,5,25,"('compression', 'ram')",2.066153136650544
+False,5,25,"('cores', 'threshold')",2.310649572509836
+False,5,25,"('ram', 'wind_size_unl')",4.028815235068979
+False,5,25,"('level', 'wind_size_unl')",3.042356515984574
+False,5,25,"('level', 'threshold')",3.060498725373824
+False,5,25,"('ram',)",3.725347611390043
+False,5,25,"('cores',)",5.507237440855609
+False,5,30,"('cores', 'ram')",1.9831215147745715
+False,5,30,"('level', 'ram')",3.1397716737172727
+False,5,30,"('cores', 'level')",1.619212851929749
+False,5,30,"('compression', 'ram')",1.9972516863927163
+False,5,30,"('cores', 'threshold')",1.891569838383805
+False,5,30,"('ram', 'wind_size_unl')",3.3890233891965376
+False,5,30,"('level', 'wind_size_unl')",2.795932980958797
+False,5,30,"('level', 'threshold')",3.267281628140515
+False,5,30,"('ram',)",3.493547898975912
+False,5,30,"('cores',)",4.728520925780707
+False,5,35,"('cores', 'ram')",2.0686710729746176
+False,5,35,"('cores', 'level')",1.827185131221147
+False,5,35,"('compression', 'cores')",1.808601968673291
+False,5,35,"('level', 'ram')",3.661450184263241
+False,5,35,"('compression', 'level')",2.3456074296426825
+False,5,35,"('compression', 'ram')",1.8670561721466448
+False,5,35,"('cores',)",4.770325664178579
+False,5,35,"('ram',)",3.3795442107949136
+False,5,35,"('level',)",9.387357622460366
+False,5,40,"('level', 'ram')",3.5172428368130046
+False,5,40,"('cores', 'ram')",2.074699472919288
+False,5,40,"('cores', 'level')",1.9814430507930905
+False,5,40,"('ram', 'wind_size_unl')",3.1577386891261536
+False,5,40,"('compression', 'ram')",1.8910094700553115
+False,5,40,"('cores',)",4.345196484196185
+False,5,40,"('ram',)",3.162371879428503
+False,5,40,"('level',)",8.411918257681364
+False,5,45,"('ram',)",3.324901440212958
+False,5,45,"('cores', 'ram')",2.2093067590016164
+False,5,45,"('cores', 'level')",2.081068759602469
+False,5,45,"('cores', 'threshold')",2.100185666666765
+False,5,45,"('level', 'ram')",2.9842904676648043
+False,5,45,"('encrypt', 'ram')",2.899270946481264
+False,5,45,"('ram', 'threshold')",2.846336592223075
+False,5,45,"('compression', 'level')",2.452269161629859
+False,5,45,"('ram', 'wind_size_unl')",2.9397647948071928
+False,5,45,"('compression', 'ram')",1.9938505346931432
+False,5,45,"('cores',)",4.449324123321372
+False,5,45,"('level',)",7.577215194926896
+False,5,45,"('cores', 'encrypt')",2.221838475156625
+False,5,45,"('compression', 'cores')",2.0072492263056856
+False,5,45,"('encrypt', 'level')",3.972161823592367
+False,5,45,"('level', 'wind_size_unl')",2.989013403153323
+False,5,45,"('level', 'threshold')",3.291536478333026
+False,5,50,"('cores',)",4.1096331358775045
+False,5,50,"('ram',)",3.059207963264037
+False,5,50,"('cores', 'level')",2.0654104408574665
+False,5,50,"('cores', 'encrypt')",2.115351823163355
+False,5,50,"('compression', 'cores')",1.9278426726792195
+False,5,50,"('level', 'ram')",3.0402314577241607
+False,5,50,"('encrypt', 'ram')",2.969286847249735
+False,5,50,"('ram', 'wind_size_unl')",2.939105954886123
+False,5,50,"('ram', 'threshold')",2.871702692238249
+False,5,50,"('compression', 'level')",2.39219891273316
+False,5,50,"('cores', 'ram')",2.265913752783385
+False,5,50,"('cores', 'wind_size_unl')",2.323401205636211
+False,5,50,"('compression', 'ram')",2.002921550752366
+False,5,50,"('encrypt', 'level')",3.9614103495981583
+False,5,50,"('level', 'threshold')",3.3413425633961134
+False,5,50,"('level',)",6.009323430748184
+False,5,55,"('level', 'ram')",3.075371885288928
+False,5,55,"('level',)",5.275421115045726
+False,5,55,"('cores', 'ram')",2.302129904886798
+False,5,55,"('cores', 'level')",2.029122159955591
+False,5,55,"('encrypt', 'ram')",3.1417711115447493
+False,5,55,"('compression', 'ram')",2.07236116810419
+False,5,55,"('level', 'wind_size_unl')",3.115172678489889
+False,5,55,"('level', 'threshold')",3.461407158748981
+False,5,55,"('ram', 'wind_size_unl')",2.814439393614064
+False,5,55,"('cores',)",4.132273181647503
+False,5,55,"('ram',)",2.9391127899270524
+False,5,55,"('threshold',)",3.0358909463193804
+False,5,55,"('ram', 'threshold')",2.6468005919570774
+False,5,60,"('level', 'ram')",3.190776535773093
+False,5,60,"('level',)",5.464107247838967
+False,5,60,"('cores', 'ram')",2.3420420558849773
+False,5,60,"('cores', 'level')",1.960427928225508
+False,5,60,"('encrypt', 'ram')",3.074262478741266
+False,5,60,"('compression', 'ram')",2.207495895930775
+False,5,60,"('level', 'wind_size_unl')",3.0670495928058816
+False,5,60,"('level', 'threshold')",3.5266075165890274
+False,5,60,"('compression', 'level')",2.5924195912698367
+False,5,60,"('ram', 'wind_size_unl')",2.8707627700460585
+False,5,60,"('cores',)",4.109254594181472
+False,5,60,"('ram',)",2.831623474988352
+False,5,60,"('threshold',)",2.8899391726713963
+False,5,60,"('compression', 'cores')",1.974371128790931
+False,5,60,"('ram', 'threshold')",2.66184489184429
+False,5,60,"('compression', 'wind_size_unl')",1.7645853904638844
+False,5,65,"('cores', 'ram')",2.2917010328036937
+False,5,65,"('level', 'ram')",3.094311910605824
+False,5,65,"('level',)",4.995935810708022
+False,5,65,"('cores', 'level')",2.055064735833785
+False,5,65,"('compression', 'ram')",2.264287527244679
+False,5,65,"('level', 'wind_size_unl')",3.1975211237724555
+False,5,65,"('level', 'threshold')",3.60601259760713
+False,5,65,"('compression', 'level')",2.649583735390225
+False,5,65,"('ram', 'wind_size_unl')",2.8931335345238187
+False,5,65,"('cores',)",3.86166689414736
+False,5,65,"('ram',)",2.587317523219806
+False,5,65,"('threshold',)",2.559578909737964
+False,5,65,"('compression', 'cores')",2.0279559105778184
+False,5,65,"('ram', 'threshold')",2.766380684422411
+False,5,65,"('compression', 'wind_size_unl')",1.7060215764786135
+False,5,70,"('level', 'ram')",3.131825679425065
+False,5,70,"('level',)",4.701134927073455
+False,5,70,"('cores', 'ram')",2.229249244040836
+False,5,70,"('cores', 'level')",2.213048072087281
+False,5,70,"('encrypt', 'ram')",2.772463201892672
+False,5,70,"('ram', 'wind_size_unl')",2.8265094813894143
+False,5,70,"('compression', 'ram')",2.1644242389006543
+False,5,70,"('level', 'wind_size_unl')",3.204892245407665
+False,5,70,"('level', 'threshold')",3.776651259488666
+False,5,70,"('compression', 'level')",2.582430667537034
+False,5,70,"('cores',)",3.44828503435104
+False,5,70,"('ram',)",2.5755048727387337
+False,5,70,"('threshold',)",2.344862968673681
+False,5,70,"('compression', 'cores')",2.053344567561683
+False,5,70,"('ram', 'threshold')",2.778604442855534
+False,5,70,"('compression', 'wind_size_unl')",1.6866579788086988
+False,5,75,"('level', 'ram')",3.127935432324953
+False,5,75,"('level',)",4.820495945133139
+False,5,75,"('cores', 'ram')",2.0031675216491727
+False,5,75,"('cores', 'level')",2.070455911663074
+False,5,75,"('cores', 'wind_size_unl')",2.132450206228848
+False,5,75,"('encrypt', 'ram')",2.7865282469476247
+False,5,75,"('ram', 'wind_size_unl')",2.6977817978403187
+False,5,75,"('level', 'wind_size_unl')",3.1021926185270354
+False,5,75,"('level', 'threshold')",3.6956921324245937
+False,5,75,"('compression', 'level')",2.584448064195195
+False,5,75,"('compression', 'cores')",1.9851711020837195
+False,5,75,"('compression', 'ram')",2.1603634806229883
+False,5,75,"('cores',)",3.068872911276291
+False,5,75,"('ram',)",2.7250881823485376
+False,5,75,"('threshold',)",2.2121753405209184
+False,5,80,"('level', 'ram')",3.0166507268701066
+False,5,80,"('ram',)",2.7025690277098406
+False,5,80,"('level',)",4.8110229671107305
+False,5,80,"('cores', 'ram')",2.009856671914717
+False,5,80,"('cores', 'level')",2.0483473677100883
+False,5,80,"('cores', 'wind_size_unl')",2.0892246457333434
+False,5,80,"('compression', 'cores')",1.832421247950957
+False,5,80,"('encrypt', 'ram')",2.725493024492497
+False,5,80,"('ram', 'wind_size_unl')",2.7154402854968005
+False,5,80,"('compression', 'ram')",1.993546277208099
+False,5,80,"('encrypt', 'level')",2.9744107673941
+False,5,80,"('level', 'wind_size_unl')",3.092795357419426
+False,5,80,"('level', 'threshold')",3.626986867652262
+False,5,80,"('compression', 'level')",2.328138459184642
+False,5,80,"('cores',)",3.0510490032359203
+False,5,80,"('encrypt',)",1.954440147064897
+False,5,80,"('wind_size_unl',)",1.9295238032351345
+False,5,85,"('level', 'ram')",2.9861032316277627
+False,5,85,"('ram',)",2.712680466933631
+False,5,85,"('level',)",4.819873315549351
+False,5,85,"('cores', 'ram')",2.003825313425037
+False,5,85,"('cores', 'level')",2.095602452316877
+False,5,85,"('cores', 'wind_size_unl')",2.0449445166064
+False,5,85,"('compression', 'cores')",1.8293808052779923
+False,5,85,"('encrypt', 'ram')",2.4657790291694504
+False,5,85,"('ram', 'wind_size_unl')",2.687928477897145
+False,5,85,"('compression', 'ram')",1.8445002546395528
+False,5,85,"('level', 'wind_size_unl')",3.1331918347422247
+False,5,85,"('level', 'threshold')",3.594246367332928
+False,5,85,"('compression', 'level')",2.2102150679818986
+False,5,85,"('cores',)",3.095914776554744
+False,5,85,"('ram', 'threshold')",2.761946317252177
+False,5,90,"('level', 'ram')",2.87056196955895
+False,5,90,"('level',)",4.7824187190383975
+False,5,90,"('cores', 'ram')",1.9994697079030024
+False,5,90,"('cores', 'level')",2.0822360499412143
+False,5,90,"('cores', 'wind_size_unl')",2.025808545597329
+False,5,90,"('compression', 'cores')",1.8843547538794925
+False,5,90,"('encrypt', 'ram')",2.5349904944619284
+False,5,90,"('ram', 'wind_size_unl')",2.634767489022338
+False,5,90,"('ram', 'threshold')",2.730066458620317
+False,5,90,"('compression', 'ram')",1.877874775887228
+False,5,90,"('encrypt', 'level')",2.8505509732003724
+False,5,90,"('level', 'wind_size_unl')",3.051156520133785
+False,5,90,"('level', 'threshold')",3.3425367614432253
+False,5,90,"('compression', 'level')",2.229412531218012
+False,5,90,"('cores',)",3.1397648502506565
+False,5,90,"('ram',)",2.7936915261309267
+False,5,90,"('encrypt',)",1.7756449427827878
+False,5,90,"('wind_size_unl',)",1.8346816831119728
+False,5,90,"('threshold',)",2.012016039447265
+False,5,95,"('ram',)",2.775641890315829
+False,5,95,"('cores', 'ram')",2.0463704544141392
+False,5,95,"('level', 'ram')",2.8419715581962666
+False,5,95,"('encrypt', 'ram')",2.495328600086001
+False,5,95,"('ram', 'wind_size_unl')",2.531405903484816
+False,5,95,"('compression', 'ram')",1.9709951300530943
+False,5,95,"('compression', 'level')",2.349674974757705
+False,5,95,"('level',)",4.655011519758753
+False,5,95,"('cores', 'level')",2.0761251681739603
+False,5,95,"('cores', 'wind_size_unl')",2.079863528795755
+False,5,95,"('ram', 'threshold')",2.5886727342768445
+False,5,95,"('encrypt', 'level')",2.7959696718135167
+False,5,95,"('level', 'wind_size_unl')",2.9851614059355382
+False,5,95,"('level', 'threshold')",3.191815560956888
+False,5,95,"('cores',)",3.198291131395645
+False,5,95,"('encrypt',)",1.7663208303865263
+False,5,95,"('wind_size_unl',)",1.8126122453483573
+False,5,95,"('threshold',)",1.897727431299119
+False,5,95,"('compression', 'cores')",2.0020423149064523
+False,5,100,"('ram',)",2.7203661200313247
+False,5,100,"('cores', 'ram')",2.0308806263831136
+False,5,100,"('compression', 'cores')",1.932279542296124
+False,5,100,"('level', 'ram')",2.746962920982143
+False,5,100,"('encrypt', 'ram')",2.428751498274325
+False,5,100,"('ram', 'wind_size_unl')",2.539156181621968
+False,5,100,"('compression', 'level')",2.300916529704563
+False,5,100,"('level',)",4.542769525576529
+False,5,100,"('cores', 'level')",2.1098100319357167
+False,5,100,"('cores', 'wind_size_unl')",2.0901093298395104
+False,5,100,"('compression', 'ram')",1.952915231039157
+False,5,100,"('level', 'wind_size_unl')",2.897488787360851
+False,5,100,"('level', 'threshold')",3.075036723570772
+False,5,100,"('ram', 'threshold')",2.6946725774915428
+False,6,15,"('level', 'ram')",4.640166966155707
+False,6,15,"('cores',)",4.980044835820102
+False,6,15,"('ram',)",4.392246096305976
+False,6,15,"('level',)",13.89641199642678
+False,6,15,"('cores', 'ram')",7.066842288534615
+False,6,15,"('compression', 'ram')",19.50065341346372
+False,6,20,"('cores', 'ram')",3.4642749260115053
+False,6,20,"('level', 'ram')",2.804107970219216
+False,6,20,"('ram', 'wind_size_unl')",4.112149988041696
+False,6,20,"('level', 'wind_size_unl')",3.031726948239651
+False,6,20,"('compression', 'ram')",8.724970732776388
+False,6,20,"('ram',)",3.972884594688982
+False,6,25,"('level', 'ram')",3.2668115262856854
+False,6,25,"('cores', 'ram')",2.0651310261956004
+False,6,25,"('compression', 'ram')",5.643004037563446
+False,6,25,"('cores',)",3.2790923921854294
+False,6,25,"('ram',)",3.5169264643170544
+False,6,25,"('level',)",4.512346726035601
+False,6,25,"('wind_size_unl',)",2.11060359601848
+False,6,30,"('level',)",4.924143455008704
+False,6,30,"('cores', 'ram')",1.9424686572265828
+False,6,30,"('cores', 'level')",1.866494237710587
+False,6,30,"('level', 'ram')",2.941112091257654
+False,6,30,"('encrypt', 'ram')",2.1856773315078653
+False,6,30,"('compression', 'ram')",5.459241450863952
+False,6,30,"('compression', 'level')",4.744849872369696
+False,6,30,"('ram', 'wind_size_unl')",3.761929279268212
+False,6,30,"('ram', 'threshold')",4.278438797948554
+False,6,30,"('encrypt', 'level')",2.362122307898853
+False,6,30,"('cores',)",2.968765929313148
+False,6,30,"('ram',)",3.584508008918584
+False,6,35,"('ram',)",3.215204302098771
+False,6,35,"('cores', 'ram')",1.991507758448052
+False,6,35,"('cores', 'level')",1.802887564517662
+False,6,35,"('level', 'ram')",3.122209739438834
+False,6,35,"('encrypt', 'ram')",2.121226970670542
+False,6,35,"('ram', 'wind_size_unl')",2.8517694486730427
+False,6,35,"('ram', 'threshold')",2.834188650698864
+False,6,35,"('compression', 'ram')",4.443094125335766
+False,6,35,"('level', 'wind_size_unl')",3.0211981236537024
+False,6,35,"('cores',)",3.082534505239213
+False,6,35,"('level',)",5.3146925991922265
+False,6,40,"('level', 'ram')",3.2642292325739435
+False,6,40,"('cores', 'ram')",2.0633364348814194
+False,6,40,"('cores', 'level')",1.8038719647492405
+False,6,40,"('encrypt', 'ram')",2.207074631486693
+False,6,40,"('compression', 'ram')",4.148222361480895
+False,6,40,"('ram',)",3.101843455578136
+False,6,40,"('ram', 'threshold')",2.388837862846427
+False,6,40,"('encrypt', 'level')",2.687165172993595
+False,6,40,"('compression', 'level')",4.633304608923207
+False,6,40,"('level', 'wind_size_unl')",3.235266822381369
+False,6,40,"('level',)",4.541575467672448
+False,6,45,"('cores', 'ram')",1.9150131009649445
+False,6,45,"('cores', 'level')",1.711849679695496
+False,6,45,"('level', 'ram')",3.223410825207244
+False,6,45,"('encrypt', 'ram')",2.321264371418407
+False,6,45,"('ram', 'wind_size_unl')",3.064455935601283
+False,6,45,"('ram', 'threshold')",2.594128722204017
+False,6,45,"('compression', 'ram')",4.6421066546764544
+False,6,45,"('compression', 'level')",5.099769370013644
+False,6,45,"('ram',)",3.17937392780256
+False,6,45,"('level',)",4.424302781758523
+False,6,45,"('encrypt', 'level')",2.6897540334628824
+False,6,45,"('level', 'wind_size_unl')",3.0784306436728275
+False,6,50,"('cores', 'ram')",1.866752234926594
+False,6,50,"('cores', 'level')",1.634741064816838
+False,6,50,"('level', 'ram')",3.3452090715338447
+False,6,50,"('encrypt', 'ram')",2.217276068969753
+False,6,50,"('compression', 'level')",5.227003189833224
+False,6,50,"('ram',)",3.1722117817487128
+False,6,50,"('level',)",4.468688544943151
+False,6,50,"('cores', 'encrypt')",1.7823881370531676
+False,6,50,"('compression', 'cores')",2.8874813262174213
+False,6,50,"('ram', 'wind_size_unl')",3.137525477792974
+False,6,50,"('ram', 'threshold')",2.458591947647767
+False,6,50,"('compression', 'ram')",4.91084836212639
+False,6,50,"('level', 'wind_size_unl')",3.1457324324525504
+False,6,50,"('level', 'threshold')",2.3189451895637965
+False,6,55,"('level', 'ram')",3.240602024942384
+False,6,55,"('ram',)",2.924992822542041
+False,6,55,"('level',)",4.788436472456267
+False,6,55,"('cores', 'ram')",2.0870033858321784
+False,6,55,"('cores', 'encrypt')",1.9207291265502704
+False,6,55,"('cores', 'wind_size_unl')",1.949751086311983
+False,6,55,"('cores', 'threshold')",2.055439077662592
+False,6,55,"('encrypt', 'ram')",2.441162816368046
+False,6,55,"('ram', 'wind_size_unl')",2.545761709371487
+False,6,55,"('ram', 'threshold')",2.2289521461374724
+False,6,55,"('compression', 'ram')",4.249783486501302
+False,6,55,"('encrypt', 'level')",2.94865500907053
+False,6,55,"('level', 'wind_size_unl')",3.0714641861718515
+False,6,55,"('level', 'threshold')",2.529760197684549
+False,6,55,"('compression', 'level')",4.945650391110832
+False,6,55,"('compression', 'wind_size_unl')",4.449177227848469
+False,6,55,"('cores', 'level')",1.8110341057164767
+False,6,55,"('cores',)",3.0526405479439083
+False,6,55,"('compression', 'cores')",3.085844403722348
+False,6,60,"('cores', 'level')",1.840992658647297
+False,6,60,"('level', 'ram')",3.1782507248691743
+False,6,60,"('compression', 'level')",5.083549780436981
+False,6,60,"('ram',)",2.7922423154661136
+False,6,60,"('level',)",4.397341034863238
+False,6,60,"('cores', 'ram')",2.0691375064961126
+False,6,60,"('cores', 'encrypt')",1.8803428853151924
+False,6,60,"('cores', 'wind_size_unl')",1.9545093479430904
+False,6,60,"('cores', 'threshold')",2.010356930475458
+False,6,60,"('encrypt', 'ram')",2.564422025707516
+False,6,60,"('ram', 'wind_size_unl')",2.801382879809544
+False,6,60,"('ram', 'threshold')",2.378295419212807
+False,6,60,"('compression', 'ram')",4.674613313997642
+False,6,60,"('encrypt', 'level')",3.0934359317664466
+False,6,60,"('level', 'wind_size_unl')",3.052908996943437
+False,6,60,"('level', 'threshold')",2.466679493283281
+False,6,60,"('compression', 'wind_size_unl')",4.765119549624666
+False,6,60,"('cores',)",2.966201768862549
+False,6,60,"('compression', 'cores')",3.2992864873898924
+False,6,65,"('cores', 'level')",1.8123891960419256
+False,6,65,"('level', 'ram')",3.136041597089443
+False,6,65,"('compression', 'level')",5.107480094251535
+False,6,65,"('level',)",4.442932667452786
+False,6,65,"('cores', 'ram')",2.132347983424745
+False,6,65,"('cores', 'wind_size_unl')",2.0620134106057058
+False,6,65,"('encrypt', 'ram')",2.396966707660021
+False,6,65,"('ram', 'wind_size_unl')",2.728353818482674
+False,6,65,"('ram', 'threshold')",2.322829907505536
+False,6,65,"('compression', 'ram')",4.332451261686849
+False,6,65,"('level', 'wind_size_unl')",3.016331950889886
+False,6,65,"('ram',)",2.762694790285388
+False,6,65,"('cores',)",3.093824877162121
+False,6,65,"('encrypt',)",1.9802067379427084
+False,6,65,"('wind_size_unl',)",1.9250891816772555
+False,6,65,"('threshold',)",1.6595754784972652
+False,6,70,"('cores', 'level')",1.9389195624059088
+False,6,70,"('level', 'ram')",3.149712109389648
+False,6,70,"('level',)",4.718147503295686
+False,6,70,"('cores', 'ram')",2.219712986210345
+False,6,70,"('cores', 'wind_size_unl')",2.130667135477585
+False,6,70,"('encrypt', 'ram')",2.5078248365919644
+False,6,70,"('ram', 'wind_size_unl')",2.7208934937619893
+False,6,70,"('compression', 'ram')",4.6234565058290045
+False,6,70,"('level', 'wind_size_unl')",2.990581587530773
+False,6,70,"('compression', 'level')",5.384087425089774
+False,6,70,"('ram',)",2.926604691720005
+False,6,70,"('cores',)",3.209104494553685
+False,6,70,"('encrypt',)",2.051891928357202
+False,6,70,"('wind_size_unl',)",2.0525533039310053
+False,6,70,"('threshold',)",1.763497553850742
+False,6,70,"('ram', 'threshold')",2.375509897971758
+False,6,70,"('level', 'threshold')",2.419838695795247
+False,6,75,"('cores', 'level')",1.952690360064646
+False,6,75,"('level', 'ram')",3.210611957004048
+False,6,75,"('ram', 'threshold')",2.418088738587993
+False,6,75,"('compression', 'ram')",4.741263550421221
+False,6,75,"('compression', 'level')",5.388441201037783
+False,6,75,"('ram',)",2.9033245701944934
+False,6,75,"('level',)",4.790061665158707
+False,6,75,"('cores', 'ram')",2.3650394392453227
+False,6,75,"('cores', 'wind_size_unl')",2.2951356616216003
+False,6,75,"('cores', 'threshold')",2.279304866577056
+False,6,75,"('encrypt', 'ram')",2.4560612464075424
+False,6,75,"('ram', 'wind_size_unl')",2.842339735619771
+False,6,75,"('level', 'wind_size_unl')",3.0264668398950314
+False,6,75,"('compression', 'cores')",3.7772456477423977
+False,6,75,"('compression', 'wind_size_unl')",5.064642464839442
+False,6,75,"('cores',)",3.3881170214004737
+False,6,75,"('encrypt',)",2.021022826220878
+False,6,75,"('wind_size_unl',)",2.0589192741276667
+False,6,75,"('threshold',)",1.8530514423456592
+False,6,75,"('level', 'threshold')",2.438497651339659
+False,6,80,"('cores', 'level')",1.9737471301796752
+False,6,80,"('level', 'ram')",3.252782525995632
+False,6,80,"('ram', 'threshold')",2.432209579175515
+False,6,80,"('compression', 'ram')",4.541942736501254
+False,6,80,"('ram',)",2.630519380582584
+False,6,80,"('level',)",4.308998325082468
+False,6,80,"('cores', 'ram')",2.379155554888851
+False,6,80,"('cores', 'wind_size_unl')",2.314757658100961
+False,6,80,"('cores', 'threshold')",2.339024386871748
+False,6,80,"('encrypt', 'ram')",2.4605126993909447
+False,6,80,"('ram', 'wind_size_unl')",2.8339196820116963
+False,6,80,"('encrypt', 'level')",3.234252292335753
+False,6,80,"('level', 'wind_size_unl')",3.0869834655136827
+False,6,80,"('compression', 'level')",5.187035637469352
+False,6,80,"('compression', 'wind_size_unl')",4.785639609845973
+False,6,80,"('cores',)",3.323466460507119
+False,6,80,"('compression', 'cores')",3.838768571567123
+False,6,80,"('cores', 'encrypt')",2.16884797385361
+False,6,80,"('level', 'threshold')",2.5571568271725185
+False,6,80,"('wind_size_unl',)",2.0713245942714145
+False,6,80,"('threshold',)",1.8559588006343823
+False,6,85,"('cores', 'level')",1.9644836821823788
+False,6,85,"('level', 'ram')",3.107183409679265
+False,6,85,"('ram', 'threshold')",2.3776920320229915
+False,6,85,"('compression', 'ram')",4.48226642616223
+False,6,85,"('compression', 'level')",5.105644901927978
+False,6,85,"('ram',)",2.6620728887924443
+False,6,85,"('level',)",4.460405650907111
+False,6,85,"('cores', 'ram')",2.412059653086115
+False,6,85,"('cores', 'wind_size_unl')",2.3487329976379097
+False,6,85,"('cores', 'threshold')",2.3219140001650014
+False,6,85,"('encrypt', 'ram')",2.414209499101948
+False,6,85,"('ram', 'wind_size_unl')",2.74583454390988
+False,6,85,"('encrypt', 'level')",2.997427761601117
+False,6,85,"('level', 'wind_size_unl')",2.9923194113489515
+False,6,85,"('level', 'threshold')",2.615084433773921
+False,6,85,"('cores',)",3.355943502392772
+False,6,85,"('wind_size_unl',)",1.9550141407889832
+False,6,85,"('threshold',)",1.7900060485537543
+False,6,90,"('ram',)",2.604339122673335
+False,6,90,"('cores', 'level')",1.9816484164080497
+False,6,90,"('level', 'ram')",2.93505606977834
+False,6,90,"('encrypt', 'ram')",2.367657241096815
+False,6,90,"('ram', 'threshold')",2.4098955411984595
+False,6,90,"('compression', 'ram')",4.624476126563685
+False,6,90,"('compression', 'level')",5.198857976158128
+False,6,90,"('level',)",4.384415726521063
+False,6,90,"('cores', 'ram')",2.4612114879950813
+False,6,90,"('cores', 'wind_size_unl')",2.362314268452386
+False,6,90,"('cores', 'threshold')",2.2871137669590325
+False,6,90,"('ram', 'wind_size_unl')",2.779976226501412
+False,6,90,"('level', 'wind_size_unl')",2.806954344004863
+False,6,90,"('level', 'threshold')",2.461596712146877
+False,6,90,"('cores',)",3.3968857621281603
+False,6,90,"('wind_size_unl',)",1.8394501256143247
+False,6,90,"('threshold',)",1.7368448793223576
+False,6,95,"('ram',)",2.5207720575322754
+False,6,95,"('cores', 'level')",2.040362370903442
+False,6,95,"('level', 'ram')",2.758154962250788
+False,6,95,"('encrypt', 'ram')",2.3819188583065194
+False,6,95,"('ram', 'threshold')",2.3816041541802817
+False,6,95,"('compression', 'ram')",4.48225524204272
+False,6,95,"('compression', 'level')",5.024775264325951
+False,6,95,"('level',)",4.173758334484488
+False,6,95,"('cores', 'ram')",2.492664954445692
+False,6,95,"('cores', 'wind_size_unl')",2.3993987744898826
+False,6,95,"('cores', 'threshold')",2.3173648487818763
+False,6,95,"('ram', 'wind_size_unl')",2.685248023049216
+False,6,95,"('encrypt', 'level')",3.0152357717952447
+False,6,95,"('level', 'wind_size_unl')",2.679138664591348
+False,6,95,"('cores', 'encrypt')",2.2224837536179147
+False,6,95,"('level', 'threshold')",2.4344428565099268
+False,6,95,"('cores',)",3.4900812384707485
+False,6,95,"('wind_size_unl',)",1.8659132561958869
+False,6,100,"('ram',)",2.505508070703649
+False,6,100,"('cores', 'level')",2.0201875453982043
+False,6,100,"('level', 'ram')",2.815814252069285
+False,6,100,"('encrypt', 'ram')",2.4166422235510328
+False,6,100,"('ram', 'threshold')",2.410088944399309
+False,6,100,"('compression', 'ram')",4.544758434202518
+False,6,100,"('compression', 'level')",5.035705739816449
+False,6,100,"('level',)",4.067314989402928
+False,6,100,"('cores', 'ram')",2.323317065604456
+False,6,100,"('cores', 'wind_size_unl')",2.2663352319121675
+False,6,100,"('ram', 'wind_size_unl')",2.7068831008017185
+False,6,100,"('encrypt', 'level')",2.891164314210283
+False,6,100,"('level', 'wind_size_unl')",2.740509788019168
+False,6,100,"('cores', 'encrypt')",2.107548764986444
+False,6,100,"('level', 'threshold')",2.476604423756316
+False,6,100,"('cores',)",3.3695745591997945
+False,6,100,"('wind_size_unl',)",1.804088782122127
+False,7,15,"('cores',)",10.886296978876963
+False,7,15,"('ram',)",10.582944752570947
+False,7,15,"('level',)",12.93436707474696
+False,7,15,"('wind_size_unl',)",4.730387663317078
+False,7,15,"('threshold',)",9.972579510276226
+False,7,15,"('cores', 'ram')",2.704824557597008
+False,7,15,"('level', 'ram')",10.313814340076108
+False,7,15,"('encrypt', 'ram')",3.332835229281764
+False,7,15,"('compression', 'ram')",1.7411378002528444
+False,7,15,"('level', 'wind_size_unl')",3.1172216196925526
+False,7,15,"('ram', 'wind_size_unl')",4.264154531763206
+False,7,20,"('cores', 'ram')",2.626377870873815
+False,7,20,"('cores', 'level')",2.257445699426613
+False,7,20,"('cores', 'wind_size_unl')",2.5051900182478204
+False,7,20,"('level', 'ram')",2.56831737737214
+False,7,20,"('ram', 'threshold')",2.508627253652955
+False,7,20,"('compression', 'ram')",1.881957585647846
+False,7,20,"('level', 'wind_size_unl')",2.5705563782778738
+False,7,20,"('level',)",9.543814891286171
+False,7,20,"('ram',)",4.967522199139394
+False,7,25,"('cores', 'ram')",3.0921093494468592
+False,7,25,"('cores', 'level')",2.398048198940356
+False,7,25,"('level', 'ram')",3.1452382810513546
+False,7,25,"('ram', 'threshold')",3.4330167306139514
+False,7,25,"('compression', 'ram')",2.051349504077024
+False,7,25,"('level', 'wind_size_unl')",3.2958244000049457
+False,7,25,"('level', 'threshold')",3.0367489201541344
+False,7,25,"('compression', 'level')",1.6361510732076396
+False,7,25,"('level',)",7.516026304258141
+False,7,25,"('encrypt', 'ram')",5.5466614590610845
+False,7,25,"('encrypt', 'level')",4.3884552417459854
+False,7,30,"('cores', 'ram')",2.7106754355477354
+False,7,30,"('level', 'ram')",2.726618441809486
+False,7,30,"('level',)",4.704594552469709
+False,7,35,"('cores', 'ram')",2.8365401149979323
+False,7,35,"('level', 'ram')",2.685913787759503
+False,7,35,"('cores',)",3.339859749826352
+False,7,35,"('ram',)",3.231038034319412
+False,7,35,"('level',)",4.692759005786928
+False,7,40,"('level',)",4.501009465293472
+False,7,40,"('cores', 'ram')",2.7877369424146927
+False,7,40,"('cores', 'level')",2.436889655692942
+False,7,40,"('level', 'ram')",2.8723885008916823
+False,7,40,"('encrypt', 'ram')",3.425409146078091
+False,7,40,"('ram', 'wind_size_unl')",3.5887173308794904
+False,7,40,"('compression', 'ram')",1.983665175717834
+False,7,40,"('encrypt', 'level')",2.853318442713446
+False,7,40,"('level', 'wind_size_unl')",2.676788414068934
+False,7,40,"('level', 'threshold')",2.7442058897555768
+False,7,40,"('compression', 'level')",1.9219622710793585
+False,7,40,"('cores',)",3.174808805376443
+False,7,40,"('ram',)",2.969040497668788
+False,7,40,"('threshold',)",2.545271127152753
+False,7,45,"('level', 'ram')",2.753359029508589
+False,7,45,"('cores', 'ram')",2.7220689045197606
+False,7,45,"('cores', 'level')",2.3362031384165745
+False,7,45,"('ram', 'threshold')",3.350466697439977
+False,7,45,"('compression', 'ram')",1.8513242321447507
+False,7,45,"('cores',)",3.5300715763427744
+False,7,45,"('ram',)",3.0178233470280063
+False,7,45,"('level',)",4.756439024326453
+False,7,50,"('level', 'ram')",2.66351199475248
+False,7,50,"('cores', 'ram')",2.8508044554756697
+False,7,50,"('cores', 'level')",2.4128526127785874
+False,7,50,"('cores',)",3.568331149726214
+False,7,50,"('ram',)",2.9081014076538194
+False,7,50,"('level',)",4.690597933951397
+False,7,50,"('threshold',)",2.359442536321467
+False,7,55,"('cores', 'ram')",2.7689470901498745
+False,7,55,"('cores', 'level')",2.3922717259103923
+False,7,55,"('level', 'ram')",2.64382643349272
+False,7,55,"('cores',)",3.1639023838799685
+False,7,55,"('ram',)",2.607856894871375
+False,7,55,"('level',)",4.72423679802496
+False,7,55,"('encrypt',)",2.3181274309963955
+False,7,55,"('threshold',)",2.4412709220080764
+False,7,60,"('cores', 'ram')",2.978452584880384
+False,7,60,"('cores', 'level')",2.514334436970465
+False,7,60,"('level', 'ram')",2.391520934068283
+False,7,60,"('cores',)",3.172751985871371
+False,7,60,"('ram',)",2.297318902387161
+False,7,60,"('level',)",4.918823747805574
+False,7,60,"('encrypt',)",2.267788420611324
+False,7,60,"('threshold',)",2.2738216726093423
+False,7,65,"('level',)",4.240622191122613
+False,7,65,"('cores', 'ram')",3.074383749306743
+False,7,65,"('level', 'ram')",2.3415321251939663
+False,7,65,"('encrypt', 'ram')",4.167965281826206
+False,7,65,"('ram', 'wind_size_unl')",3.6236644758846097
+False,7,65,"('encrypt', 'level')",3.295965733827474
+False,7,65,"('level', 'wind_size_unl')",2.366061845088334
+False,7,65,"('level', 'threshold')",2.385974386777147
+False,7,65,"('compression', 'level')",1.94301189010974
+False,7,65,"('cores', 'level')",2.604462571309285
+False,7,65,"('cores',)",3.1783599860211424
+False,7,65,"('ram',)",2.1609850828817696
+False,7,65,"('encrypt',)",2.143812774558051
+False,7,65,"('threshold',)",2.1253631241352693
+False,7,65,"('wind_size_unl',)",2.304520034258384
+False,7,70,"('ram',)",2.184674339003154
+False,7,70,"('level',)",4.36073741835379
+False,7,70,"('cores', 'ram')",2.990884418253878
+False,7,70,"('cores', 'level')",2.5876683856514737
+False,7,70,"('cores', 'wind_size_unl')",2.76829435172043
+False,7,70,"('level', 'ram')",2.2694378029003737
+False,7,70,"('encrypt', 'ram')",3.766204106863675
+False,7,70,"('ram', 'wind_size_unl')",3.3845043433689104
+False,7,70,"('ram', 'threshold')",3.5419094062509857
+False,7,70,"('compression', 'ram')",2.143943904414917
+False,7,70,"('encrypt', 'level')",2.9338353758717504
+False,7,70,"('level', 'wind_size_unl')",2.241179755665573
+False,7,70,"('compression', 'level')",2.0077991985939296
+False,7,70,"('cores',)",3.433768834475957
+False,7,70,"('encrypt',)",2.19172713655669
+False,7,70,"('wind_size_unl',)",2.4147951132571794
+False,7,70,"('threshold',)",2.0379928970373102
+False,7,75,"('cores', 'ram')",3.0878768577091624
+False,7,75,"('level', 'ram')",2.314305881827954
+False,7,75,"('ram', 'wind_size_unl')",3.2635470317072093
+False,7,75,"('ram', 'threshold')",3.3825775217000364
+False,7,75,"('level', 'threshold')",2.3507914954015154
+False,7,75,"('compression', 'level')",1.9987093812678625
+False,7,75,"('ram',)",2.20293024808852
+False,7,75,"('level',)",4.186846623260228
+False,7,75,"('cores', 'level')",2.677211695043193
+False,7,75,"('cores', 'wind_size_unl')",2.8793616292422604
+False,7,75,"('encrypt', 'ram')",3.977616233688069
+False,7,75,"('compression', 'ram')",2.0844308581944
+False,7,75,"('encrypt', 'level')",3.0945648288505065
+False,7,75,"('level', 'wind_size_unl')",2.3357435949703587
+False,7,80,"('ram',)",2.251282561833672
+False,7,80,"('level',)",3.861390804489958
+False,7,80,"('cores', 'ram')",3.000502038096457
+False,7,80,"('cores', 'level')",2.7051575688699057
+False,7,80,"('cores', 'wind_size_unl')",2.842303284729621
+False,7,80,"('level', 'ram')",2.330102451091156
+False,7,80,"('encrypt', 'ram')",3.804566176989395
+False,7,80,"('ram', 'wind_size_unl')",3.131697634444623
+False,7,80,"('compression', 'ram')",2.04811540047188
+False,7,80,"('encrypt', 'level')",3.201600432434596
+False,7,80,"('level', 'wind_size_unl')",2.4246204091113075
+False,7,80,"('level', 'threshold')",2.431555260429085
+False,7,80,"('compression', 'level')",2.074969311678032
+False,7,80,"('ram', 'threshold')",3.1537834030778265
+False,7,85,"('level', 'ram')",2.411269117071623
+False,7,85,"('ram',)",2.2065749113369746
+False,7,85,"('level',)",3.94591367049715
+False,7,85,"('cores', 'ram')",3.170461901451749
+False,7,85,"('cores', 'level')",2.8079233618815644
+False,7,85,"('encrypt', 'ram')",3.822127308491051
+False,7,85,"('ram', 'wind_size_unl')",3.2061751397995457
+False,7,85,"('encrypt', 'level')",3.189299077669967
+False,7,85,"('level', 'wind_size_unl')",2.4087361258612443
+False,7,85,"('level', 'threshold')",2.4262110656737947
+False,7,85,"('compression', 'level')",2.0531962048787253
+False,7,85,"('ram', 'threshold')",3.2893117454664376
+False,7,85,"('compression', 'ram')",2.029187204621658
+False,7,90,"('level', 'ram')",2.4437855119624987
+False,7,90,"('ram',)",2.2039832834632
+False,7,90,"('level',)",3.816013802172746
+False,7,90,"('cores', 'ram')",3.1793286353740564
+False,7,90,"('cores', 'level')",2.848694917751717
+False,7,90,"('cores', 'wind_size_unl')",2.990005425289343
+False,7,90,"('encrypt', 'ram')",3.818147969977985
+False,7,90,"('ram', 'wind_size_unl')",3.1776164322193807
+False,7,90,"('ram', 'threshold')",3.245289795685775
+False,7,90,"('encrypt', 'level')",3.226681520323196
+False,7,90,"('level', 'wind_size_unl')",2.426479317631737
+False,7,90,"('level', 'threshold')",2.460683866454096
+False,7,90,"('compression', 'level')",2.0002441952762844
+False,7,90,"('compression', 'ram')",2.0065787920278844
+False,7,90,"('cores',)",3.3561250620953844
+False,7,90,"('wind_size_unl',)",2.2652923622622176
+False,7,90,"('encrypt',)",1.856654232394779
+False,7,90,"('threshold',)",1.8830286672720504
+False,7,95,"('level', 'ram')",2.453423903197681
+False,7,95,"('ram',)",2.2330533734237026
+False,7,95,"('level',)",3.7822230104053496
+False,7,95,"('cores', 'ram')",3.1267043135211785
+False,7,95,"('cores', 'level')",2.746558380605389
+False,7,95,"('cores', 'wind_size_unl')",2.947098635633019
+False,7,95,"('compression', 'cores')",2.020564950296271
+False,7,95,"('encrypt', 'ram')",3.625894172579889
+False,7,95,"('ram', 'wind_size_unl')",3.093162458582167
+False,7,95,"('ram', 'threshold')",3.1424465547034592
+False,7,95,"('compression', 'ram')",1.9578202961086
+False,7,95,"('encrypt', 'level')",3.1433110490003293
+False,7,95,"('level', 'wind_size_unl')",2.4686999476418685
+False,7,95,"('level', 'threshold')",2.5017456905118163
+False,7,95,"('compression', 'level')",1.959230958234505
+False,7,95,"('cores',)",3.4470538345814923
+False,7,95,"('wind_size_unl',)",2.254212590263895
+False,7,95,"('encrypt',)",1.9394104211009469
+False,7,95,"('threshold',)",1.8790785318127168
+False,7,100,"('level', 'ram')",2.442103841194783
+False,7,100,"('ram',)",2.288124805120447
+False,7,100,"('level',)",4.034145641381511
+False,7,100,"('cores', 'ram')",3.1233752051650208
+False,7,100,"('cores', 'level')",2.710980629049913
+False,7,100,"('cores', 'wind_size_unl')",2.9550627600267934
+False,7,100,"('encrypt', 'ram')",3.650284495398401
+False,7,100,"('ram', 'wind_size_unl')",2.9686856854246058
+False,7,100,"('ram', 'threshold')",2.9507638451589537
+False,7,100,"('encrypt', 'level')",3.17196046082594
+False,7,100,"('level', 'wind_size_unl')",2.448720186051382
+False,7,100,"('level', 'threshold')",2.455246544282072
+False,7,100,"('compression', 'level')",1.9593296715470097
+False,7,100,"('cores',)",3.540933202329921
+False,7,100,"('wind_size_unl',)",2.206955435469145
+False,7,100,"('encrypt',)",1.8307029332134344
+False,7,100,"('threshold',)",1.9864761297619395
+False,8,15,"('cores', 'ram')",4.458586434929784
+False,8,15,"('cores', 'level')",5.312068900610283
+False,8,15,"('level', 'ram')",2.6878073361018924
+False,8,15,"('compression', 'ram')",4.420225882066425
+False,8,15,"('encrypt', 'ram')",5.289060624598301
+False,8,15,"('ram',)",6.559293862833836
+False,8,15,"('compression', 'level')",3.371743598054145
+False,8,15,"('cores',)",5.101982884758395
+False,8,15,"('level',)",13.094980596730077
+False,8,15,"('wind_size_unl',)",4.135263861802797
+False,8,20,"('cores', 'ram')",5.451599163279764
+False,8,20,"('cores', 'level')",5.899792206630046
+False,8,20,"('level', 'ram')",4.31482331169498
+False,8,20,"('encrypt', 'ram')",5.957387366321862
+False,8,20,"('ram',)",3.372320878920008
+False,8,20,"('level', 'wind_size_unl')",5.064676856985165
+False,8,20,"('level', 'threshold')",1.8227847022208628
+False,8,20,"('cores',)",3.1037218174950554
+False,8,20,"('level',)",6.278164977807429
+False,8,20,"('wind_size_unl',)",3.076209081976815
+False,8,25,"('level',)",5.2928932774417605
+False,8,25,"('cores', 'ram')",3.659092951001801
+False,8,25,"('cores', 'level')",4.024128392379143
+False,8,25,"('level', 'ram')",3.6013772225695875
+False,8,25,"('ram', 'wind_size_unl')",4.765462890954258
+False,8,25,"('encrypt', 'level')",8.022244932300874
+False,8,25,"('level', 'wind_size_unl')",4.595574766628356
+False,8,25,"('compression', 'ram')",3.214901706222937
+False,8,25,"('ram',)",2.4636633321183283
+False,8,25,"('cores',)",3.945369672118611
+False,8,25,"('wind_size_unl',)",2.462323500180825
+False,8,30,"('cores', 'ram')",3.254267906258049
+False,8,30,"('cores', 'level')",3.7425757140770832
+False,8,30,"('level', 'ram')",3.757118840797952
+False,8,30,"('ram', 'wind_size_unl')",4.5332744888481225
+False,8,30,"('compression', 'ram')",2.9741687510659887
+False,8,30,"('compression', 'level')",2.7602724750677305
+False,8,30,"('ram',)",2.18457428524832
+False,8,30,"('level',)",4.542174482478726
+False,8,30,"('cores',)",3.9151748422328594
+False,8,30,"('wind_size_unl',)",2.318130223956594
+False,8,35,"('level',)",4.461581968653349
+False,8,35,"('cores', 'ram')",3.537852463307704
+False,8,35,"('cores', 'level')",3.2571813182511766
+False,8,35,"('encrypt', 'ram')",4.235591750590731
+False,8,35,"('compression', 'ram')",3.424859356093511
+False,8,35,"('level', 'wind_size_unl')",3.381692012835981
+False,8,35,"('level', 'threshold')",2.3645420770565084
+False,8,35,"('compression', 'level')",3.034192026841513
+False,8,35,"('level', 'ram')",3.112502869410466
+False,8,35,"('ram',)",2.1039328514887825
+False,8,35,"('ram', 'wind_size_unl')",4.25969497496189
+False,8,35,"('cores',)",4.295592588811574
+False,8,35,"('wind_size_unl',)",2.3360021374270006
+False,8,40,"('level',)",4.248383831086233
+False,8,40,"('cores', 'ram')",4.00472962666723
+False,8,40,"('cores', 'level')",3.553367275946901
+False,8,40,"('level', 'ram')",3.288665721144155
+False,8,40,"('ram', 'wind_size_unl')",3.910007410422885
+False,8,40,"('encrypt', 'level')",3.5240882839301317
+False,8,40,"('level', 'wind_size_unl')",3.757163648643796
+False,8,40,"('level', 'threshold')",2.417804828362628
+False,8,40,"('compression', 'level')",3.076773853344165
+False,8,40,"('compression', 'ram')",3.4671723676254618
+False,8,40,"('ram',)",2.1852764714876525
+False,8,40,"('compression', 'cores')",3.8329096001176497
+False,8,40,"('ram', 'threshold')",2.92065052412573
+False,8,40,"('encrypt', 'ram')",3.633049537438745
+False,8,40,"('cores',)",4.0100343576024535
+False,8,45,"('cores', 'ram')",3.4427191003442204
+False,8,45,"('cores', 'level')",3.4046178768479085
+False,8,45,"('level', 'ram')",3.62437704377474
+False,8,45,"('compression', 'ram')",3.306273898111142
+False,8,45,"('ram', 'wind_size_unl')",3.3463229994331467
+False,8,45,"('ram',)",2.333902424870966
+False,8,50,"('level',)",4.424131807938278
+False,8,50,"('cores', 'ram')",3.278150198388593
+False,8,50,"('cores', 'level')",3.3364765230783906
+False,8,50,"('level', 'ram')",3.953908406997649
+False,8,50,"('level', 'wind_size_unl')",4.697636069801529
+False,8,50,"('level', 'threshold')",3.068789458850298
+False,8,50,"('compression', 'level')",3.444357516381929
+False,8,50,"('ram', 'wind_size_unl')",3.451579165902628
+False,8,50,"('compression', 'ram')",3.560925255024272
+False,8,50,"('encrypt', 'ram')",2.6046538503585963
+False,8,50,"('ram',)",2.226288451682485
+False,8,55,"('level',)",3.981619240831882
+False,8,55,"('cores', 'ram')",3.1928954399760507
+False,8,55,"('cores', 'level')",3.1118550635418463
+False,8,55,"('level', 'ram')",4.180174443857836
+False,8,55,"('ram', 'wind_size_unl')",3.549590793465065
+False,8,55,"('level', 'wind_size_unl')",4.905401549825755
+False,8,55,"('level', 'threshold')",3.0737850698828493
+False,8,55,"('compression', 'level')",3.497316400148395
+False,8,55,"('compression', 'ram')",3.849275111952792
+False,8,55,"('encrypt', 'level')",3.1389742588337985
+False,8,55,"('encrypt', 'ram')",2.789827145350992
+False,8,55,"('ram',)",2.27454717863871
+False,8,55,"('cores', 'threshold')",3.140810894658581
+False,8,55,"('ram', 'threshold')",2.856954542647272
+False,8,60,"('cores', 'ram')",3.2762069528329745
+False,8,60,"('cores', 'threshold')",3.3756621841967265
+False,8,60,"('compression', 'cores')",4.131432491803895
+False,8,60,"('level', 'ram')",3.996288339520443
+False,8,60,"('ram', 'wind_size_unl')",3.463105600045139
+False,8,60,"('ram', 'threshold')",2.6394180657619217
+False,8,60,"('compression', 'ram')",3.991607041798247
+False,8,60,"('level', 'wind_size_unl')",4.119405480199509
+False,8,60,"('level', 'threshold')",2.940344429207629
+False,8,60,"('compression', 'level')",3.68028109575913
+False,8,60,"('ram',)",2.1647045301971497
+False,8,60,"('level',)",4.006643464085047
+False,8,60,"('cores', 'level')",3.2938385304918056
+False,8,60,"('cores', 'wind_size_unl')",3.43323567174451
+False,8,60,"('encrypt', 'ram')",2.813899659685476
+False,8,65,"('cores', 'ram')",3.439773330064716
+False,8,65,"('cores', 'threshold')",3.5392144560366567
+False,8,65,"('compression', 'cores')",4.198665323472343
+False,8,65,"('level', 'ram')",3.789573026934943
+False,8,65,"('ram', 'wind_size_unl')",3.376623061273124
+False,8,65,"('ram', 'threshold')",2.5774280932581144
+False,8,65,"('compression', 'ram')",3.997268944804503
+False,8,65,"('level', 'wind_size_unl')",4.049809889083618
+False,8,65,"('level', 'threshold')",3.004493042939124
+False,8,65,"('compression', 'level')",3.720151833540087
+False,8,65,"('ram',)",2.1503157735620526
+False,8,65,"('level',)",3.992183429120443
+False,8,65,"('cores', 'level')",3.510341815526866
+False,8,65,"('cores', 'wind_size_unl')",3.579693435490592
+False,8,65,"('encrypt', 'ram')",2.8814499527386106
+False,8,70,"('cores', 'ram')",3.4795721555145915
+False,8,70,"('cores', 'level')",3.477775777379935
+False,8,70,"('level', 'ram')",3.566369876744546
+False,8,70,"('ram', 'wind_size_unl')",3.1351457068837125
+False,8,70,"('ram', 'threshold')",2.5723463007568625
+False,8,70,"('compression', 'ram')",3.9944618744687457
+False,8,70,"('level', 'threshold')",3.102334161608745
+False,8,70,"('compression', 'level')",3.7480357920677614
+False,8,70,"('ram',)",2.247008282353029
+False,8,70,"('level',)",4.185715864521199
+False,8,70,"('cores', 'wind_size_unl')",3.718073051518032
+False,8,70,"('encrypt', 'ram')",2.802536664796616
+False,8,70,"('level', 'wind_size_unl')",3.998019291927532
+False,8,75,"('cores', 'ram')",3.349788449621588
+False,8,75,"('cores', 'level')",3.3697323141589512
+False,8,75,"('level', 'ram')",3.362037036662954
+False,8,75,"('ram', 'wind_size_unl')",2.970306471895808
+False,8,75,"('ram', 'threshold')",2.414240479067629
+False,8,75,"('level', 'threshold')",3.068648461390441
+False,8,75,"('compression', 'level')",3.821364111419643
+False,8,75,"('ram',)",2.3899694057034067
+False,8,75,"('level',)",4.204959123214134
+False,8,75,"('cores', 'wind_size_unl')",3.5471137634728787
+False,8,75,"('encrypt', 'ram')",2.736210263293793
+False,8,75,"('compression', 'ram')",4.007383916286668
+False,8,75,"('level', 'wind_size_unl')",3.709922161027293
+False,8,80,"('cores', 'ram')",3.3892329792435643
+False,8,80,"('level', 'ram')",3.254593105617986
+False,8,80,"('ram', 'threshold')",2.4273600784202736
+False,8,80,"('ram',)",2.37777482418449
+False,8,80,"('level',)",3.88457033622592
+False,8,80,"('cores', 'level')",3.1820868195539243
+False,8,80,"('cores', 'wind_size_unl')",3.516622976782014
+False,8,80,"('compression', 'cores')",4.489904660091415
+False,8,80,"('encrypt', 'ram')",2.8786391462608694
+False,8,80,"('ram', 'wind_size_unl')",2.906180492546744
+False,8,80,"('compression', 'ram')",4.206520460465708
+False,8,80,"('level', 'wind_size_unl')",3.484725209275948
+False,8,80,"('level', 'threshold')",3.029582201435694
+False,8,80,"('compression', 'level')",3.940890950214401
+False,8,85,"('cores', 'ram')",3.619217409184412
+False,8,85,"('level', 'ram')",3.341806451839194
+False,8,85,"('ram', 'threshold')",2.541098067408328
+False,8,85,"('ram',)",2.3715709633429856
+False,8,85,"('level',)",3.778836224839287
+False,8,85,"('cores', 'level')",3.239613394736604
+False,8,85,"('cores', 'wind_size_unl')",3.7377373559476057
+False,8,85,"('compression', 'cores')",4.758457561564206
+False,8,85,"('encrypt', 'ram')",2.789945982691923
+False,8,85,"('ram', 'wind_size_unl')",2.90863056123136
+False,8,85,"('compression', 'ram')",4.395297167437834
+False,8,85,"('level', 'wind_size_unl')",3.5450835156361653
+False,8,85,"('level', 'threshold')",3.1245290401164865
+False,8,85,"('compression', 'level')",3.975676885331173
+False,8,85,"('encrypt', 'level')",3.0630662795289734
+False,8,85,"('cores',)",3.8826289358400943
+False,8,90,"('cores', 'ram')",3.423673553802793
+False,8,90,"('level', 'ram')",3.280426604546823
+False,8,90,"('ram', 'threshold')",2.514125071625344
+False,8,90,"('ram',)",2.495150185362223
+False,8,90,"('level',)",3.973675382990932
+False,8,90,"('cores', 'level')",3.122862569673845
+False,8,90,"('cores', 'wind_size_unl')",3.445823744796495
+False,8,90,"('compression', 'cores')",4.153539455203097
+False,8,90,"('encrypt', 'ram')",2.537036604223106
+False,8,90,"('ram', 'wind_size_unl')",2.798323666461972
+False,8,90,"('compression', 'ram')",3.8848061127821456
+False,8,90,"('level', 'wind_size_unl')",3.4515947426723184
+False,8,90,"('level', 'threshold')",3.0269593029992974
+False,8,90,"('compression', 'level')",3.6797472479990194
+False,8,90,"('encrypt', 'level')",2.906712728813485
+False,8,90,"('cores',)",3.974431803942607
+False,8,95,"('cores', 'ram')",3.387464457411069
+False,8,95,"('cores', 'level')",3.1408447403251407
+False,8,95,"('level', 'ram')",3.2445282376105324
+False,8,95,"('ram', 'threshold')",2.440561931339698
+False,8,95,"('compression', 'level')",3.624219004835575
+False,8,95,"('ram',)",2.4390028337037064
+False,8,95,"('level',)",3.84192033631544
+False,8,95,"('cores', 'wind_size_unl')",3.3992273158246062
+False,8,95,"('compression', 'cores')",4.032634744492952
+False,8,95,"('encrypt', 'ram')",2.428469506372007
+False,8,95,"('ram', 'wind_size_unl')",2.772499510448363
+False,8,95,"('compression', 'ram')",3.8471661023771033
+False,8,95,"('level', 'wind_size_unl')",3.468552824250048
+False,8,95,"('level', 'threshold')",3.094930133828381
+False,8,95,"('encrypt', 'level')",2.9154075882344475
+False,8,95,"('cores',)",3.739796784265248
+False,8,100,"('ram',)",2.4337290250159467
+False,8,100,"('level',)",3.684287637213869
+False,8,100,"('cores', 'ram')",3.418813618887188
+False,8,100,"('cores', 'wind_size_unl')",3.3569112227858837
+False,8,100,"('compression', 'cores')",4.084845740686719
+False,8,100,"('level', 'ram')",3.178343472524204
+False,8,100,"('encrypt', 'ram')",2.463635319424559
+False,8,100,"('ram', 'wind_size_unl')",2.8197543700748966
+False,8,100,"('ram', 'threshold')",2.54102149328596
+False,8,100,"('compression', 'ram')",3.8831281093596615
+False,8,100,"('level', 'wind_size_unl')",3.416339645306984
+False,8,100,"('level', 'threshold')",3.1027479769395376
+False,8,100,"('compression', 'level')",3.66028399675176
+False,8,100,"('cores', 'level')",3.125478149286001
+False,9,15,"('ram',)",8.596395097134694
+False,9,15,"('cores', 'level')",4.336471407827622
+False,9,15,"('level', 'ram')",14.423477845875604
+False,9,15,"('compression', 'ram')",3.7517758289279524
+False,9,20,"('level',)",3.8252574917268523
+False,9,20,"('cores', 'ram')",2.651650519858845
+False,9,20,"('cores', 'level')",2.3749001669993146
+False,9,20,"('level', 'ram')",6.1998944786878365
+False,9,20,"('ram', 'wind_size_unl')",3.7250296377692966
+False,9,20,"('ram', 'threshold')",3.809837235979643
+False,9,20,"('level', 'threshold')",5.932012348950908
+False,9,20,"('compression', 'level')",3.061913720420488
+False,9,20,"('cores',)",4.6956513527422095
+False,9,20,"('ram',)",3.276609080577068
+False,9,20,"('wind_size_unl',)",2.1878589346579362
+False,9,25,"('cores', 'ram')",3.163729051316596
+False,9,25,"('level', 'ram')",3.9120164491244114
+False,9,25,"('cores', 'level')",2.7439865322433197
+False,9,25,"('ram', 'threshold')",4.079990201106358
+False,9,25,"('ram',)",3.2450196677829615
+False,9,25,"('encrypt', 'ram')",3.6484319184603886
+False,9,25,"('compression', 'ram')",2.716672317072943
+False,9,25,"('level', 'wind_size_unl')",3.2991444376280836
+False,9,25,"('compression', 'level')",2.4220321887179903
+False,9,25,"('level',)",4.625945019829241
+False,9,25,"('encrypt',)",2.9583548701139555
+False,9,25,"('threshold',)",3.7619849773215286
+False,9,25,"('cores',)",4.01222363071338
+False,9,25,"('wind_size_unl',)",2.803948001980231
+False,9,30,"('cores', 'ram')",2.6377494645107213
+False,9,30,"('level', 'ram')",3.48292678382057
+False,9,30,"('ram', 'threshold')",3.9941464066455388
+False,9,30,"('compression', 'ram')",2.4922430072666675
+False,9,30,"('cores', 'level')",2.486840582921494
+False,9,30,"('ram',)",2.9430569053618694
+False,9,30,"('level',)",3.700106916788229
+False,9,30,"('encrypt',)",2.8995210090808263
+False,9,30,"('threshold',)",2.433872918308678
+False,9,30,"('cores',)",3.8541826502011007
+False,9,30,"('wind_size_unl',)",2.03343725374671
+False,9,35,"('cores', 'ram')",2.6861263874959045
+False,9,35,"('cores', 'level')",2.478563656056581
+False,9,35,"('level', 'ram')",3.112368120651833
+False,9,35,"('level', 'threshold')",2.7728807643509086
+False,9,35,"('ram', 'threshold')",4.247810081793673
+False,9,35,"('ram',)",3.069968758841685
+False,9,35,"('level',)",3.893491557264877
+False,9,35,"('encrypt',)",2.869765815452127
+False,9,35,"('threshold',)",1.9328319105223697
+False,9,35,"('cores',)",4.1110879742969235
+False,9,40,"('cores', 'ram')",2.6729388276796016
+False,9,40,"('cores', 'level')",2.515739920802035
+False,9,40,"('level', 'ram')",3.369820091358608
+False,9,40,"('ram', 'threshold')",4.279747124770689
+False,9,40,"('ram',)",2.745301039667568
+False,9,40,"('level',)",3.9637157473911135
+False,9,40,"('wind_size_unl',)",2.0649275087298062
+False,9,40,"('cores',)",3.688928914691558
+False,9,40,"('encrypt',)",2.5893090537983205
+False,9,40,"('threshold',)",2.0438363800691164
+False,9,45,"('level',)",4.161500876297069
+False,9,45,"('cores', 'ram')",2.5957516214243954
+False,9,45,"('level', 'ram')",3.1387478750200684
+False,9,45,"('ram', 'wind_size_unl')",3.549964931457991
+False,9,45,"('ram', 'threshold')",3.53913212488872
+False,9,45,"('compression', 'ram')",2.202518352325283
+False,9,45,"('encrypt', 'level')",4.065416987853436
+False,9,45,"('level', 'wind_size_unl')",2.679664791920756
+False,9,45,"('compression', 'level')",1.9719186129814135
+False,9,45,"('cores', 'level')",2.6417269044711156
+False,9,45,"('ram',)",2.6782535378422394
+False,9,45,"('cores',)",4.2122051524286634
+False,9,45,"('wind_size_unl',)",2.202011478608354
+False,9,45,"('encrypt',)",2.626645933253576
+False,9,45,"('threshold',)",2.219476769920097
+False,9,50,"('cores', 'ram')",2.758357603652032
+False,9,50,"('cores', 'level')",2.5711101906726204
+False,9,50,"('level', 'ram')",2.8824015378060577
+False,9,50,"('ram', 'threshold')",3.4301959593387754
+False,9,50,"('level', 'wind_size_unl')",2.662114143351595
+False,9,50,"('compression', 'level')",1.8063850839060394
+False,9,50,"('ram',)",2.6452357841239817
+False,9,50,"('cores',)",4.304625568300765
+False,9,50,"('wind_size_unl',)",2.173888674573616
+False,9,50,"('level',)",4.4538243256294345
+False,9,50,"('encrypt',)",2.2214224139386953
+False,9,50,"('threshold',)",2.312538997329619
+False,9,55,"('level', 'ram')",2.795271961985105
+False,9,55,"('level',)",4.365881115467635
+False,9,55,"('cores', 'ram')",2.561393128333588
+False,9,55,"('encrypt', 'ram')",2.3744759601336103
+False,9,55,"('ram', 'wind_size_unl')",3.042247030155145
+False,9,55,"('ram', 'threshold')",2.9611510552352733
+False,9,55,"('compression', 'ram')",2.030102614795397
+False,9,55,"('encrypt', 'level')",3.343429612171017
+False,9,55,"('level', 'wind_size_unl')",2.6330144865627725
+False,9,55,"('compression', 'level')",1.8442058722857095
+False,9,55,"('cores', 'level')",2.528044668894969
+False,9,55,"('ram',)",2.519942342546559
+False,9,55,"('cores',)",4.197333948434081
+False,9,55,"('wind_size_unl',)",2.1347270329966035
+False,9,55,"('encrypt',)",2.0670477831131437
+False,9,55,"('threshold',)",2.31001555780922
+False,9,60,"('level', 'ram')",2.915307700704724
+False,9,60,"('ram',)",2.5199466665846675
+False,9,60,"('level',)",4.558458620577986
+False,9,60,"('cores', 'ram')",2.5238069798039087
+False,9,60,"('cores', 'encrypt')",2.491071515334702
+False,9,60,"('encrypt', 'ram')",2.435308241151616
+False,9,60,"('ram', 'wind_size_unl')",3.1594128836025015
+False,9,60,"('ram', 'threshold')",3.1465569945592438
+False,9,60,"('compression', 'ram')",2.053800829464753
+False,9,60,"('encrypt', 'level')",3.5059120745499106
+False,9,60,"('level', 'wind_size_unl')",2.6812921719188387
+False,9,60,"('level', 'threshold')",2.7159706914380743
+False,9,60,"('compression', 'level')",1.787321978261763
+False,9,60,"('compression', 'wind_size_unl')",1.8163181287744001
+False,9,60,"('cores', 'level')",2.357537110896984
+False,9,60,"('cores',)",4.158242427686147
+False,9,60,"('wind_size_unl',)",2.0387359154200935
+False,9,60,"('encrypt',)",2.087429690871248
+False,9,60,"('threshold',)",2.3634522069109134
+False,9,65,"('level', 'ram')",2.946293168586098
+False,9,65,"('level',)",4.310481816745154
+False,9,65,"('cores', 'ram')",2.404145572633793
+False,9,65,"('cores', 'level')",2.381798055790662
+False,9,65,"('encrypt', 'ram')",2.3601585402253114
+False,9,65,"('ram', 'wind_size_unl')",2.725370871600485
+False,9,65,"('ram', 'threshold')",2.7835388187777586
+False,9,65,"('encrypt', 'level')",3.4994207125175176
+False,9,65,"('level', 'wind_size_unl')",2.6713604530975035
+False,9,65,"('level', 'threshold')",2.7526052849219638
+False,9,65,"('compression', 'level')",1.73165422475878
+False,9,65,"('cores',)",4.050459121745452
+False,9,65,"('wind_size_unl',)",1.9922882934590438
+False,9,65,"('ram',)",2.3870619510803923
+False,9,65,"('encrypt',)",1.9606475537646895
+False,9,65,"('threshold',)",2.4480821765703102
+False,9,70,"('level', 'ram')",3.140474108385162
+False,9,70,"('ram',)",2.302173600189594
+False,9,70,"('level',)",4.088131992754916
+False,9,70,"('cores', 'ram')",2.377500553304537
+False,9,70,"('cores', 'level')",2.3197886469535285
+False,9,70,"('cores', 'encrypt')",2.4567781178203316
+False,9,70,"('cores', 'wind_size_unl')",2.1601163117953024
+False,9,70,"('encrypt', 'ram')",2.3108560900873645
+False,9,70,"('ram', 'wind_size_unl')",2.7649270056017454
+False,9,70,"('ram', 'threshold')",2.8634700424413686
+False,9,70,"('compression', 'ram')",1.956313875317679
+False,9,70,"('level', 'wind_size_unl')",2.8564095214129748
+False,9,70,"('compression', 'level')",1.8146212103273283
+False,9,70,"('cores', 'threshold')",2.312313900387583
+False,9,70,"('encrypt', 'level')",3.4061336518571332
+False,9,70,"('level', 'threshold')",2.9190166866732374
+False,9,70,"('cores',)",3.7449584505666595
+False,9,70,"('encrypt',)",1.8790777311439089
+False,9,70,"('wind_size_unl',)",1.855415057025596
+False,9,70,"('threshold',)",2.1544909876738907
+False,9,75,"('ram',)",2.3648172790856843
+False,9,75,"('cores', 'ram')",2.3382194224989843
+False,9,75,"('cores', 'level')",2.2509474767967674
+False,9,75,"('level', 'ram')",2.8705906642998023
+False,9,75,"('encrypt', 'ram')",2.2557476346098198
+False,9,75,"('ram', 'wind_size_unl')",2.7856661651261967
+False,9,75,"('ram', 'threshold')",2.982290477162541
+False,9,75,"('compression', 'ram')",1.9489997040611635
+False,9,75,"('level',)",3.866806394136427
+False,9,75,"('cores', 'wind_size_unl')",2.133833127320125
+False,9,75,"('level', 'wind_size_unl')",2.6749361708986172
+False,9,75,"('compression', 'level')",1.8328164384118943
+False,9,75,"('cores', 'threshold')",2.25652472123196
+False,9,75,"('encrypt', 'level')",3.0833665493200204
+False,9,75,"('level', 'threshold')",2.6370443034475635
+False,9,75,"('cores',)",3.520568823458184
+False,9,75,"('encrypt',)",1.8365588428198931
+False,9,75,"('wind_size_unl',)",1.9337630246656679
+False,9,75,"('threshold',)",2.1148399730752376
+False,9,80,"('ram',)",2.3483147502714248
+False,9,80,"('cores', 'ram')",2.2655984439694388
+False,9,80,"('cores', 'level')",2.2161243305648926
+False,9,80,"('level', 'ram')",2.622204387082059
+False,9,80,"('encrypt', 'ram')",2.308163369604828
+False,9,80,"('ram', 'wind_size_unl')",2.6424449874367086
+False,9,80,"('ram', 'threshold')",2.9823857203824664
+False,9,80,"('compression', 'ram')",1.9370837679898463
+False,9,80,"('level', 'wind_size_unl')",2.4798644413813555
+False,9,80,"('compression', 'level')",1.865725534101888
+False,9,80,"('level',)",3.816135244210841
+False,9,80,"('cores', 'wind_size_unl')",2.0934824928502946
+False,9,80,"('cores', 'encrypt')",2.3346383247444704
+False,9,80,"('level', 'threshold')",2.4117148291539117
+False,9,80,"('encrypt', 'level')",2.944835144383507
+False,9,80,"('cores', 'threshold')",2.2371391069882813
+False,9,80,"('cores',)",3.364324053417919
+False,9,80,"('encrypt',)",1.8711335098788087
+False,9,80,"('wind_size_unl',)",1.8634343604770234
+False,9,80,"('threshold',)",2.0382804596664172
+False,9,85,"('ram',)",2.338866315300797
+False,9,85,"('cores', 'level')",2.1477734519685168
+False,9,85,"('compression', 'cores')",1.857430612539318
+False,9,85,"('level', 'ram')",2.559827337581702
+False,9,85,"('encrypt', 'ram')",2.3538768098713936
+False,9,85,"('ram', 'wind_size_unl')",2.650223280653975
+False,9,85,"('ram', 'threshold')",3.0071641929996242
+False,9,85,"('compression', 'ram')",1.9250598541754755
+False,9,85,"('level', 'wind_size_unl')",2.370402595408981
+False,9,85,"('level',)",3.668891294933952
+False,9,85,"('cores', 'ram')",2.1722308395440075
+False,9,85,"('cores', 'encrypt')",2.1890009940872366
+False,9,85,"('cores', 'wind_size_unl')",2.015171830185007
+False,9,85,"('encrypt', 'level')",2.7103508978778907
+False,9,85,"('compression', 'level')",1.8677536244912252
+False,9,85,"('level', 'threshold')",2.3672105515249515
+False,9,85,"('cores', 'threshold')",2.139793656398367
+False,9,85,"('cores',)",3.1543680223554764
+False,9,85,"('encrypt',)",1.8289257861892194
+False,9,85,"('wind_size_unl',)",1.770377813190817
+False,9,85,"('threshold',)",2.0276325695302866
+False,9,90,"('ram',)",2.3532541613526363
+False,9,90,"('cores', 'level')",2.176056822221202
+False,9,90,"('compression', 'cores')",1.9650569045626483
+False,9,90,"('level', 'ram')",2.5475504776311984
+False,9,90,"('encrypt', 'ram')",2.37239321814581
+False,9,90,"('ram', 'wind_size_unl')",2.7134453138487284
+False,9,90,"('ram', 'threshold')",2.944276974418331
+False,9,90,"('compression', 'ram')",1.9261476206341732
+False,9,90,"('level', 'wind_size_unl')",2.384394567753618
+False,9,90,"('level', 'threshold')",2.359614456788545
+False,9,90,"('level',)",3.866617698603739
+False,9,90,"('cores', 'ram')",2.2414496408937223
+False,9,90,"('cores', 'encrypt')",2.1714711616415636
+False,9,90,"('cores', 'wind_size_unl')",2.0063941764978575
+False,9,90,"('encrypt', 'level')",2.727211535900043
+False,9,90,"('compression', 'level')",1.8769276557556847
+False,9,90,"('compression', 'threshold')",1.8027899413314878
+False,9,90,"('encrypt',)",1.843901765978095
+False,9,90,"('encrypt', 'threshold')",2.318008756308257
+False,9,90,"('cores',)",3.2094089324175825
+False,9,90,"('cores', 'threshold')",2.1389648203836096
+False,9,90,"('encrypt', 'wind_size_unl')",2.479196909269329
+False,9,90,"('threshold', 'wind_size_unl')",2.1323491664675234
+False,9,95,"('ram',)",2.3228156090223298
+False,9,95,"('cores', 'level')",2.2769273008497133
+False,9,95,"('compression', 'cores')",1.9797757960023374
+False,9,95,"('level', 'ram')",2.495189009380659
+False,9,95,"('encrypt', 'ram')",2.3331841565412166
+False,9,95,"('ram', 'wind_size_unl')",2.5485070555559286
+False,9,95,"('ram', 'threshold')",2.83531219775637
+False,9,95,"('compression', 'ram')",1.9036146144822608
+False,9,95,"('level', 'wind_size_unl')",2.3169075938473576
+False,9,95,"('level', 'threshold')",2.324703795497309
+False,9,95,"('level',)",3.6110203409199393
+False,9,95,"('cores', 'ram')",2.27693838784041
+False,9,95,"('cores', 'encrypt')",2.2601242552240235
+False,9,95,"('cores', 'wind_size_unl')",2.0298149493183555
+False,9,95,"('encrypt', 'level')",2.6724827216758196
+False,9,95,"('compression', 'level')",1.832296576939238
+False,9,95,"('cores', 'threshold')",2.1420652309781896
+False,9,95,"('encrypt', 'wind_size_unl')",2.4884485677804267
+False,9,95,"('threshold', 'wind_size_unl')",2.0944202691554406
+False,9,100,"('ram',)",2.352295286672166
+False,9,100,"('compression', 'cores')",2.018784103526858
+False,9,100,"('level', 'ram')",2.5747792235554257
+False,9,100,"('encrypt', 'ram')",2.3856068763435996
+False,9,100,"('ram', 'wind_size_unl')",2.5948980951589093
+False,9,100,"('ram', 'threshold')",2.7964602606264726
+False,9,100,"('compression', 'ram')",1.9281491665728356
+False,9,100,"('level', 'wind_size_unl')",2.380656823823826
+False,9,100,"('level', 'threshold')",2.3899284853229332
+False,9,100,"('level',)",3.606962261619478
+False,9,100,"('cores', 'ram')",2.147152698432099
+False,9,100,"('cores', 'encrypt')",2.2456519298803217
+False,9,100,"('cores', 'wind_size_unl')",1.9878929574796032
+False,9,100,"('encrypt', 'level')",2.6954567252350254
+False,9,100,"('compression', 'level')",1.9059384872391172
+False,9,100,"('cores', 'level')",2.232444390485097
+False,9,100,"('cores', 'threshold')",2.1268889843431302
+False,9,100,"('encrypt', 'wind_size_unl')",2.500414607439407
+False,9,100,"('threshold', 'wind_size_unl')",2.156908575668363

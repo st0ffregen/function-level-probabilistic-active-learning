@@ -1,0 +1,231 @@
+is_active,repetition,iteration,feature,vif
+True,0,15,"('window',)",14.655209538393631
+True,0,15,"('compression', 'window')",
+True,0,20,"('compression', 'window')",
+True,0,20,"('window',)",16.639539117433646
+True,0,25,"('window',)",11.97672090709835
+True,0,25,"('compression', 'window')",
+True,0,25,"('compression',)",11.97672090709835
+True,0,30,"('compression', 'window')",
+True,0,35,"('compression', 'window')",
+True,0,40,"('compression', 'window')",
+True,0,45,"('window',)",7.723326147134004
+True,0,45,"('compression',)",7.723326147134004
+True,0,45,"('compression', 'window')",
+True,0,50,"('window',)",7.519502781625707
+True,0,50,"('compression',)",7.519502781625714
+True,0,50,"('compression', 'window')",
+True,0,55,"('compression', 'window')",
+True,0,60,"('compression', 'window')",
+True,1,20,"('window',)",9.677275434559483
+True,1,20,"('compression', 'window')",
+True,1,25,"('compression', 'window')",
+True,1,25,"('window',)",8.666623938060614
+True,1,30,"('compression', 'window')",
+True,1,30,"('window',)",9.872292692814437
+True,1,35,"('window',)",10.154667395063685
+True,1,35,"('compression', 'window')",
+True,1,35,"('compression',)",10.154667395063685
+True,1,40,"('window',)",10.008010741745473
+True,1,40,"('compression', 'window')",
+True,1,40,"('compression',)",10.008010741745473
+True,1,45,"('window',)",9.4622471017532
+True,1,45,"('compression', 'window')",
+True,1,45,"('compression',)",9.4622471017532
+True,1,50,"('window',)",8.639652626456074
+True,1,50,"('compression',)",8.639652626456066
+True,1,50,"('compression', 'window')",
+True,1,55,"('window',)",8.447494211914803
+True,1,55,"('compression',)",8.447494211914803
+True,1,55,"('compression', 'window')",
+True,1,60,"('compression', 'window')",
+True,1,60,"('compression',)",7.618665613399639
+True,2,15,"('compression', 'window')",
+True,2,20,"('compression', 'window')",
+True,2,20,"('compression',)",5.358579461668839
+True,2,25,"('compression', 'window')",
+True,2,25,"('compression',)",6.303621169916437
+True,2,30,"('compression', 'window')",
+True,2,30,"('compression',)",7.492902358503133
+True,2,35,"('compression', 'window')",
+True,2,35,"('compression',)",6.842569672881378
+True,2,40,"('compression',)",6.436377069999021
+True,2,40,"('compression', 'window')",
+True,2,40,"('window',)",6.436377069999021
+True,2,45,"('compression',)",6.8080164681634345
+True,2,45,"('compression', 'window')",
+True,2,45,"('window',)",6.8080164681634345
+True,2,50,"('window',)",7.048592306477578
+True,2,50,"('compression',)",7.048592306477578
+True,2,50,"('compression', 'window')",
+True,2,55,"('window',)",7.228077637324052
+True,2,55,"('compression',)",7.228077637324052
+True,2,55,"('compression', 'window')",
+True,2,60,"('window',)",7.591983790970614
+True,2,60,"('compression',)",7.591983790970614
+True,2,60,"('compression', 'window')",
+True,3,15,"('compression', 'window')",
+True,3,20,"('window',)",6.221037146009563
+True,3,20,"('compression',)",6.221037146009563
+True,3,20,"('compression', 'window')",
+True,3,25,"('window',)",6.403979120846069
+True,3,25,"('compression',)",6.403979120846069
+True,3,25,"('compression', 'window')",
+True,3,30,"('compression', 'window')",
+True,3,30,"('window',)",6.36077749126412
+True,3,35,"('window',)",6.156117342023867
+True,3,35,"('compression',)",6.156117342023871
+True,3,35,"('compression', 'window')",
+True,3,40,"('window',)",6.729259041226666
+True,3,40,"('compression',)",6.729259041226666
+True,3,40,"('compression', 'window')",
+True,3,45,"('window',)",6.85407202682601
+True,3,45,"('compression',)",6.854072026826016
+True,3,45,"('compression', 'window')",
+True,3,50,"('window',)",6.764675585978848
+True,3,50,"('compression',)",6.764675585978843
+True,3,50,"('compression', 'window')",
+True,3,55,"('compression', 'window')",
+True,3,60,"('window',)",7.447983510797722
+True,3,60,"('compression',)",7.447983510797722
+True,3,60,"('compression', 'window')",
+True,4,15,"('window',)",14.712328091660533
+True,4,15,"('compression', 'window')",
+True,4,20,"('window',)",12.422297964225002
+True,4,20,"('compression', 'window')",
+True,4,20,"('compression',)",12.422297964225002
+True,4,25,"('window',)",10.332157105588337
+True,4,25,"('compression', 'window')",
+True,4,30,"('compression', 'window')",
+True,4,35,"('compression', 'window')",
+True,4,35,"('window',)",9.651416688328569
+True,4,35,"('compression',)",9.651416688328569
+True,4,40,"('compression', 'window')",
+True,4,40,"('window',)",9.122196759868537
+True,4,40,"('compression',)",9.122196759868544
+True,4,45,"('window',)",9.179187912466576
+True,4,45,"('compression', 'window')",
+True,4,45,"('compression',)",9.179187912466576
+True,4,50,"('window',)",7.796469666005754
+True,4,50,"('compression', 'window')",
+True,4,50,"('compression',)",7.79646966600576
+True,4,55,"('window',)",8.149792194269683
+True,4,55,"('compression', 'window')",
+True,4,55,"('compression',)",8.149792194269683
+True,4,60,"('window',)",7.929471318460568
+True,4,60,"('compression', 'window')",
+True,4,60,"('compression',)",7.929471318460568
+True,5,15,"('compression', 'window')",
+True,5,20,"('compression', 'window')",
+True,5,20,"('window',)",11.430749081603496
+True,5,25,"('compression', 'window')",
+True,5,30,"('compression', 'window')",
+True,5,30,"('window',)",11.015687870125497
+True,5,30,"('compression',)",11.015687870125497
+True,5,35,"('compression', 'window')",
+True,5,35,"('window',)",8.641383918900559
+True,5,40,"('compression', 'window')",
+True,5,40,"('window',)",9.601441269716103
+True,5,45,"('compression', 'window')",
+True,5,50,"('compression', 'window')",
+True,5,55,"('compression', 'window')",
+True,5,60,"('compression', 'window')",
+True,6,15,"('window',)",12.248601572724004
+True,6,15,"('compression', 'window')",
+True,6,15,"('compression',)",12.248601572724004
+True,6,20,"('window',)",9.66382191719774
+True,6,20,"('compression', 'window')",
+True,6,20,"('compression',)",9.66382191719773
+True,6,25,"('window',)",12.068258882500366
+True,6,25,"('compression', 'window')",
+True,6,25,"('compression',)",12.068258882500366
+True,6,30,"('compression', 'window')",
+True,6,30,"('window',)",10.039213007630282
+True,6,35,"('window',)",10.573776287251222
+True,6,35,"('compression', 'window')",
+True,6,35,"('compression',)",10.573776287251222
+True,6,40,"('window',)",9.119425599837086
+True,6,40,"('compression',)",9.119425599837086
+True,6,40,"('compression', 'window')",
+True,6,45,"('window',)",9.5141381566597
+True,6,45,"('compression',)",9.5141381566597
+True,6,45,"('compression', 'window')",
+True,6,50,"('window',)",7.802563321696927
+True,6,50,"('compression',)",7.802563321696927
+True,6,50,"('compression', 'window')",
+True,6,55,"('compression', 'window')",
+True,6,55,"('compression',)",7.941345495372689
+True,6,60,"('compression', 'window')",
+True,6,60,"('window',)",8.366871821943656
+True,6,60,"('compression',)",8.366871821943656
+True,7,15,"('window',)",8.876583931080253
+True,7,15,"('compression', 'window')",
+True,7,15,"('compression',)",8.876583931080262
+True,7,20,"('window',)",13.29925247166626
+True,7,20,"('compression', 'window')",
+True,7,25,"('window',)",13.00447919427511
+True,7,25,"('compression', 'window')",
+True,7,30,"('window',)",11.895128957015231
+True,7,30,"('compression', 'window')",
+True,7,30,"('compression',)",11.895128957015231
+True,7,35,"('window',)",11.256876193723627
+True,7,35,"('compression', 'window')",
+True,7,35,"('compression',)",11.256876193723627
+True,7,40,"('window',)",10.05720295284076
+True,7,40,"('compression', 'window')",
+True,7,40,"('compression',)",10.05720295284076
+True,7,45,"('window',)",7.60125608945421
+True,7,45,"('compression', 'window')",
+True,7,50,"('window',)",8.228771313433143
+True,7,50,"('compression', 'window')",
+True,7,55,"('window',)",7.599297170013184
+True,7,55,"('compression', 'window')",
+True,7,60,"('compression', 'window')",
+True,8,15,"('window',)",7.392280762820214
+True,8,15,"('compression', 'window')",
+True,8,20,"('window',)",8.630750867420673
+True,8,20,"('compression', 'window')",
+True,8,25,"('window',)",10.3427140957031
+True,8,25,"('compression', 'window')",
+True,8,25,"('compression',)",10.3427140957031
+True,8,30,"('window',)",8.903759665456839
+True,8,30,"('compression', 'window')",
+True,8,30,"('compression',)",8.903759665456839
+True,8,35,"('window',)",9.290253098844252
+True,8,35,"('compression', 'window')",
+True,8,35,"('compression',)",9.290253098844252
+True,8,40,"('window',)",9.317103368103544
+True,8,40,"('compression', 'window')",
+True,8,40,"('compression',)",9.317103368103544
+True,8,45,"('window',)",9.331332885043016
+True,8,45,"('compression', 'window')",
+True,8,45,"('compression',)",9.331332885043016
+True,8,50,"('window',)",7.483557723528122
+True,8,50,"('compression', 'window')",
+True,8,50,"('compression',)",7.483557723528128
+True,8,55,"('window',)",7.247857374328514
+True,8,55,"('compression', 'window')",
+True,8,55,"('compression',)",7.247857374328514
+True,8,60,"('window',)",7.577689112683007
+True,8,60,"('compression', 'window')",
+True,9,15,"('compression', 'window')",
+True,9,15,"('window',)",11.203538361738515
+True,9,20,"('compression', 'window')",
+True,9,25,"('window',)",9.841187142479233
+True,9,25,"('compression', 'window')",
+True,9,30,"('window',)",9.161524750896108
+True,9,30,"('compression', 'window')",
+True,9,30,"('compression',)",9.161524750896108
+True,9,35,"('window',)",8.439570209030677
+True,9,35,"('compression', 'window')",
+True,9,35,"('compression',)",8.439570209030677
+True,9,40,"('window',)",9.373857502311875
+True,9,40,"('compression', 'window')",
+True,9,45,"('compression', 'window')",
+True,9,45,"('window',)",8.469249609116073
+True,9,50,"('compression', 'window')",
+True,9,50,"('window',)",8.333475417341507
+True,9,55,"('window',)",8.380405022076415
+True,9,55,"('compression', 'window')",
+True,9,60,"('window',)",8.688038364432728
+True,9,60,"('compression', 'window')",

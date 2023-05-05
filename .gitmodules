@@ -1,0 +1,3 @@
+[submodule "implementation/active_bayesify/bayesify"]
+	path = implementation/active_bayesify/bayesify
+	url = ssh://git@git.informatik.uni-leipzig.de/SWS/bayesify
